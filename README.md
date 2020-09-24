@@ -1,6 +1,8 @@
 # WebGallery
 WebInterface for a Web Gallary presenting Pictures.
-
+### Badges
+![GitHub issues](https://img.shields.io/github/issues/CookAperture/WebGallery) 
+![GitHub milestones](https://img.shields.io/github/milestones/open/CookAperture/WebGallery?color=yellow)
 ## Basic Features
 - [ ] Gallery of All Pictures
 - [ ] Database for All Pictures
