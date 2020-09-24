@@ -8,6 +8,11 @@ WebInterface for a Web Gallary presenting Pictures.
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/CookAperture/WebGallery.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/CookAperture/WebGallery/context:javascript)
 ![GitHub](https://img.shields.io/github/license/CookAperture/WebGallery)
 
+## Prerequisites for Host/Server
+- MySQL
+- Node.js
+- dependencys listet in package.jason
+
 ## Basic Features
 - [ ] Gallery of All Pictures
 - [ ] Database for All Pictures
