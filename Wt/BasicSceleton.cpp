@@ -1,4 +1,6 @@
 #include "BasicSceleton.h"
+#include <Wt/WCssStyleSheet.h>
+#include <Wt/WFileResource.h>
 
 ControlExample::ControlExample(const Wt::WEnvironment& env)
     : WApplication(env)
@@ -6,6 +8,7 @@ ControlExample::ControlExample(const Wt::WEnvironment& env)
     //ressource init
     appName = "Basic Skeleton";
     messageResourceBundle().use(appRoot() + "xml/main");
+    useStyleSheet(appRoot() + "main.css");
 
     //main init
     setTitle(appName);
@@ -29,6 +32,7 @@ void ControlExample::onInternalPathChange() //navigate
 inline void ControlExample::UpdatePage()
 {
     root()->clear();
+    root()->setStyleClass("external");
     root()->addWidget(std::move(mainTemplate));
 }
 
