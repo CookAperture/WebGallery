@@ -1,0 +1,9 @@
+<map id="Wt::WAbstractItemView" name="Wt::WAbstractItemView">
+<area shape="rect" id="node1" title="An abstract base class for item Views." alt="" coords="53,304,215,331"/>
+<area shape="rect" id="node6" href="$classWt_1_1WTableView.html" title="An MVC View widget for tabular data." alt="" coords="5,379,124,405"/>
+<area shape="rect" id="node7" href="$classWt_1_1WTreeView.html" title="A view class that displays a model as a tree or tree table." alt="" coords="148,379,261,405"/>
+<area shape="rect" id="node2" href="$classWt_1_1WCompositeWidget.html" title="A widget that hides the implementation of composite widgets." alt="" coords="53,229,215,256"/>
+<area shape="rect" id="node3" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="83,155,185,181"/>
+<area shape="rect" id="node4" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="85,80,183,107"/>
+<area shape="rect" id="node5" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="63,5,205,32"/>
+</map>

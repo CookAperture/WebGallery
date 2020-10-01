@@ -1,0 +1,8 @@
+<map id="Wt::WAbstractArea" name="Wt::WAbstractArea">
+<area shape="rect" id="node1" title="Abstract base class for interactive areas in a widget." alt="" coords="149,155,285,181"/>
+<area shape="rect" id="node4" href="$classWt_1_1WCircleArea.html" title="A interactive area in a widget, specified by a circle." alt="" coords="5,229,125,256"/>
+<area shape="rect" id="node5" href="$classWt_1_1WPolygonArea.html" title="An interactive area in a widget, specified by a polygon." alt="" coords="150,229,285,256"/>
+<area shape="rect" id="node6" href="$classWt_1_1WRectArea.html" title="A interactive area in a widget, specified by a rectangle." alt="" coords="309,229,424,256"/>
+<area shape="rect" id="node2" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="168,80,267,107"/>
+<area shape="rect" id="node3" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="146,5,289,32"/>
+</map>

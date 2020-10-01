@@ -1,0 +1,5 @@
+<map id="Wt::WTimer" name="Wt::WTimer">
+<area shape="rect" id="node1" title="A utility class which provides timer signals and single&#45;shot timers." alt="" coords="31,155,123,181"/>
+<area shape="rect" id="node2" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="27,80,126,107"/>
+<area shape="rect" id="node3" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="5,5,148,32"/>
+</map>

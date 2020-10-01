@@ -1,0 +1,5 @@
+<map id="Wt::WVmlImage" name="Wt::WVmlImage">
+<area shape="rect" id="node1" title="A paint device for rendering using the VML pseudo&#45;standard." alt="" coords="13,155,131,181"/>
+<area shape="rect" id="node2" href="$classWt_1_1WVectorImage.html" title="An abstract paint device for rendering using native vector graphics." alt="" coords="5,80,139,107"/>
+<area shape="rect" id="node3" href="$classWt_1_1WPaintDevice.html" title="The abstract base class for a paint device." alt="" coords="8,5,136,32"/>
+</map>

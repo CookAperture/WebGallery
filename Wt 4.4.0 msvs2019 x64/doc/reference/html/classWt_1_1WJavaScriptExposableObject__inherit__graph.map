@@ -1,0 +1,9 @@
+<map id="Wt::WJavaScriptExposableObject" name="Wt::WJavaScriptExposableObject">
+<area shape="rect" id="node1" title="A JavaScript exposable object." alt="" coords="285,5,465,47"/>
+<area shape="rect" id="node2" href="$classWt_1_1WBrush.html" title="A value class that defines the style for filling a path." alt="" coords="5,95,100,121"/>
+<area shape="rect" id="node3" href="$classWt_1_1WPainterPath.html" title="A path defining a shape." alt="" coords="125,95,253,121"/>
+<area shape="rect" id="node4" href="$classWt_1_1WPen.html" title="A value class that defines the style for pen strokes." alt="" coords="277,95,359,121"/>
+<area shape="rect" id="node5" href="$classWt_1_1WPointF.html" title="A value class that defines a 2D point." alt="" coords="383,95,482,121"/>
+<area shape="rect" id="node6" href="$classWt_1_1WRectF.html" title="A value class that defines a rectangle." alt="" coords="507,95,601,121"/>
+<area shape="rect" id="node7" href="$classWt_1_1WTransform.html" title="A value class that defines a 2D affine transformation matrix." alt="" coords="626,95,743,121"/>
+</map>

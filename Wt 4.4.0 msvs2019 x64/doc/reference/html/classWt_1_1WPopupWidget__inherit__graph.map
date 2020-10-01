@@ -1,0 +1,11 @@
+<map id="Wt::WPopupWidget" name="Wt::WPopupWidget">
+<area shape="rect" id="node1" title="Base class for popup widgets." alt="" coords="193,304,332,331"/>
+<area shape="rect" id="node6" href="$classWt_1_1WDialog.html" title="A WDialog shows a dialog." alt="" coords="139,379,235,405"/>
+<area shape="rect" id="node9" href="$classWt_1_1WSuggestionPopup.html" title="A widget which popups to assist in editing a textarea or lineedit." alt="" coords="259,379,421,405"/>
+<area shape="rect" id="node2" href="$classWt_1_1WCompositeWidget.html" title="A widget that hides the implementation of composite widgets." alt="" coords="181,229,344,256"/>
+<area shape="rect" id="node3" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="212,155,313,181"/>
+<area shape="rect" id="node4" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="213,80,312,107"/>
+<area shape="rect" id="node5" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="191,5,334,32"/>
+<area shape="rect" id="node7" href="$classWt_1_1Auth_1_1PasswordPromptDialog.html" title="A dialog that prompts for the user password." alt="" coords="5,453,187,495"/>
+<area shape="rect" id="node8" href="$classWt_1_1WMessageBox.html" title="A standard dialog for confirmation or to get simple user input." alt="" coords="211,461,347,487"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Wt::Chart::WStandardChartProxyModel" name="Wt::Chart::WStandardChartProxyModel">
+<area shape="rect" id="node1" title="A WAbstractChartModel implementation that wraps a WAbstractItemModel." alt="" coords="5,244,188,285"/>
+<area shape="rect" id="node2" href="$classWt_1_1Chart_1_1WAbstractChartModel.html" title="An abstract model for use with Wt&#39;s charts." alt="" coords="7,155,186,196"/>
+<area shape="rect" id="node3" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="47,80,146,107"/>
+<area shape="rect" id="node4" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="25,5,168,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Wt::WResource" name="Wt::WResource">
+<area shape="rect" id="node1" title="An object which can be rendered in the HTTP protocol." alt="" coords="343,157,457,184"/>
+<area shape="rect" id="node4" href="$classWt_1_1Auth_1_1OAuthTokenEndpoint.html" title="Endpoint to retrieve an access token." alt="" coords="506,5,711,32"/>
+<area shape="rect" id="node5" href="$classWt_1_1Auth_1_1OidcUserInfoEndpoint.html" title="Endpoint at which user info can be requested." alt="" coords="505,56,712,83"/>
+<area shape="rect" id="node6" href="$classWt_1_1WMemoryResource.html" title="A resource which streams data from memory." alt="" coords="527,107,690,133"/>
+<area shape="rect" id="node7" href="$classWt_1_1WPdfImage.html" title="A paint device for rendering to a PDF." alt="" coords="551,157,666,184"/>
+<area shape="rect" id="node8" href="$classWt_1_1WRasterImage.html" title="A paint device for rendering to a raster image." alt="" coords="542,208,675,235"/>
+<area shape="rect" id="node9" href="$classWt_1_1WStreamResource.html" title="An object which streams the data from a std::istream." alt="" coords="530,259,687,285"/>
+<area shape="rect" id="node11" href="$classWt_1_1WSvgImage.html" title="A paint device for rendering using Scalable Vector Graphics (SVG)." alt="" coords="551,309,667,336"/>
+<area shape="rect" id="node2" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="196,157,295,184"/>
+<area shape="rect" id="node3" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="5,157,148,184"/>
+<area shape="rect" id="node10" href="$classWt_1_1WFileResource.html" title="A resource which streams the data from a local file." alt="" coords="760,259,896,285"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Wt::WDatePicker" name="Wt::WDatePicker">
+<area shape="rect" id="node1" title="A date picker." alt="" coords="25,304,149,331"/>
+<area shape="rect" id="node2" href="$classWt_1_1WCompositeWidget.html" title="A widget that hides the implementation of composite widgets." alt="" coords="5,229,168,256"/>
+<area shape="rect" id="node3" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="36,155,137,181"/>
+<area shape="rect" id="node4" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="37,80,136,107"/>
+<area shape="rect" id="node5" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="15,5,158,32"/>
+</map>

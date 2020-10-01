@@ -1,0 +1,12 @@
+<map id="Wt::WAbstractSpinBox" name="Wt::WAbstractSpinBox">
+<area shape="rect" id="node1" title="An abstract spin box." alt="" coords="77,528,235,555"/>
+<area shape="rect" id="node9" href="$classWt_1_1WDoubleSpinBox.html" title="An input control for fixed point numbers." alt="" coords="5,603,155,629"/>
+<area shape="rect" id="node10" href="$classWt_1_1WSpinBox.html" title="An input control for integer numbers." alt="" coords="179,603,288,629"/>
+<area shape="rect" id="node2" href="$classWt_1_1WLineEdit.html" title="A widget that provides a single line edit." alt="" coords="103,453,209,480"/>
+<area shape="rect" id="node3" href="$classWt_1_1WFormWidget.html" title="An abstract widget that corresponds to an HTML form element." alt="" coords="91,379,221,405"/>
+<area shape="rect" id="node4" href="$classWt_1_1WInteractWidget.html" title="An abstract widget that can receive user&#45;interface interaction." alt="" coords="84,304,228,331"/>
+<area shape="rect" id="node5" href="$classWt_1_1WWebWidget.html" title="A base class for widgets with an HTML counterpart." alt="" coords="92,229,220,256"/>
+<area shape="rect" id="node6" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="105,155,207,181"/>
+<area shape="rect" id="node7" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="107,80,205,107"/>
+<area shape="rect" id="node8" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="85,5,227,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Wt::WAbstractProxyModel" name="Wt::WAbstractProxyModel">
+<area shape="rect" id="node1" title="An abstract proxy model for Wt&#39;s item models." alt="" coords="560,107,739,133"/>
+<area shape="rect" id="node5" href="$classWt_1_1WAggregateProxyModel.html" title="A proxy model for Wt&#39;s item models that provides column aggregation." alt="" coords="787,5,975,32"/>
+<area shape="rect" id="node6" href="$classWt_1_1WBatchEditProxyModel.html" title="A proxy model for Wt&#39;s item models that provides batch editing." alt="" coords="787,56,974,83"/>
+<area shape="rect" id="node7" href="$classWt_1_1WIdentityProxyModel.html" title="A proxy model that proxies its source model unmodified." alt="" coords="795,107,966,133"/>
+<area shape="rect" id="node8" href="$classWt_1_1WReadOnlyProxyModel.html" title="A read&#45;only wrapper for a source model." alt="" coords="787,157,974,184"/>
+<area shape="rect" id="node9" href="$classWt_1_1WSortFilterProxyModel.html" title="A proxy model for Wt&#39;s item models that provides filtering and/or sorting." alt="" coords="789,208,972,235"/>
+<area shape="rect" id="node2" href="$classWt_1_1WAbstractItemModel.html" title="An abstract model for use with Wt&#39;s view classes." alt="" coords="343,107,512,133"/>
+<area shape="rect" id="node3" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="196,107,295,133"/>
+<area shape="rect" id="node4" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="5,107,148,133"/>
+</map>

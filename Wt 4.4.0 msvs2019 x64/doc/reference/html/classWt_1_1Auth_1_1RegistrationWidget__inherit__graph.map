@@ -1,0 +1,10 @@
+<map id="Wt::Auth::RegistrationWidget" name="Wt::Auth::RegistrationWidget">
+<area shape="rect" id="node1" title="A registration widget." alt="" coords="5,528,197,555"/>
+<area shape="rect" id="node2" href="$classWt_1_1WTemplateFormView.html" title="A template&#45;based View class for form models." alt="" coords="16,453,187,480"/>
+<area shape="rect" id="node3" href="$classWt_1_1WTemplate.html" title="A widget that renders an XHTML template." alt="" coords="45,379,158,405"/>
+<area shape="rect" id="node4" href="$classWt_1_1WInteractWidget.html" title="An abstract widget that can receive user&#45;interface interaction." alt="" coords="29,304,173,331"/>
+<area shape="rect" id="node5" href="$classWt_1_1WWebWidget.html" title="A base class for widgets with an HTML counterpart." alt="" coords="37,229,165,256"/>
+<area shape="rect" id="node6" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="51,155,152,181"/>
+<area shape="rect" id="node7" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="52,80,151,107"/>
+<area shape="rect" id="node8" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="30,5,173,32"/>
+</map>

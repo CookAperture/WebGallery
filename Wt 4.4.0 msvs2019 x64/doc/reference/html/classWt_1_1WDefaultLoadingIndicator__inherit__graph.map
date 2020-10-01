@@ -1,0 +1,8 @@
+<map id="Wt::WDefaultLoadingIndicator" name="Wt::WDefaultLoadingIndicator">
+<area shape="rect" id="node1" title="A default loading indicator." alt="" coords="5,379,200,405"/>
+<area shape="rect" id="node2" href="$classWt_1_1WLoadingIndicator.html" title="An abstract interface for a loading indicator." alt="" coords="25,304,180,331"/>
+<area shape="rect" id="node3" href="$classWt_1_1WCompositeWidget.html" title="A widget that hides the implementation of composite widgets." alt="" coords="21,229,184,256"/>
+<area shape="rect" id="node4" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="52,155,153,181"/>
+<area shape="rect" id="node5" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="53,80,152,107"/>
+<area shape="rect" id="node6" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="31,5,174,32"/>
+</map>

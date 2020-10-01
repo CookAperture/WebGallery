@@ -1,0 +1,6 @@
+<map id="Wt::WAbstractItemDelegate" name="Wt::WAbstractItemDelegate">
+<area shape="rect" id="node1" title="Abstract delegate class for rendering an item in an item view." alt="" coords="5,155,191,181"/>
+<area shape="rect" id="node4" href="$classWt_1_1WItemDelegate.html" title="Standard delegate class for rendering a view item." alt="" coords="30,229,166,256"/>
+<area shape="rect" id="node2" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="49,80,147,107"/>
+<area shape="rect" id="node3" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="27,5,169,32"/>
+</map>

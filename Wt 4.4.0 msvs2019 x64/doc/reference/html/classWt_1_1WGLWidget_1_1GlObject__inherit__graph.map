@@ -1,0 +1,12 @@
+<map id="Wt::WGLWidget::GlObject" name="Wt::WGLWidget::GlObject">
+<area shape="rect" id="node1" title="Abstract base class for all GL objects." alt="" coords="5,208,183,235"/>
+<area shape="rect" id="node2" href="$classWt_1_1WGLWidget_1_1ArrayBuffer.html" title="Reference to a javascript ArrayBuffer class." alt="" coords="245,5,435,32"/>
+<area shape="rect" id="node3" href="$classWt_1_1WGLWidget_1_1AttribLocation.html" title="Reference to a shader attribute location." alt="" coords="237,56,443,83"/>
+<area shape="rect" id="node4" href="$classWt_1_1WGLWidget_1_1Buffer.html" title="Reference to a WebGLBuffer class." alt="" coords="261,107,419,133"/>
+<area shape="rect" id="node5" href="$classWt_1_1WGLWidget_1_1Framebuffer.html" title="Reference to a WebGLFramebuffer class." alt="" coords="243,157,437,184"/>
+<area shape="rect" id="node6" href="$classWt_1_1WGLWidget_1_1Program.html" title="Reference to a WebGLProgram class." alt="" coords="253,208,427,235"/>
+<area shape="rect" id="node7" href="$classWt_1_1WGLWidget_1_1Renderbuffer.html" title="Reference to a WebGLRenderbuffer class." alt="" coords="241,259,439,285"/>
+<area shape="rect" id="node8" href="$classWt_1_1WGLWidget_1_1Shader.html" title="Reference to a WebGLShader class." alt="" coords="257,309,423,336"/>
+<area shape="rect" id="node9" href="$classWt_1_1WGLWidget_1_1Texture.html" title="Reference to a WebGLTexture class." alt="" coords="255,360,425,387"/>
+<area shape="rect" id="node10" href="$classWt_1_1WGLWidget_1_1UniformLocation.html" title="Reference to a WebGLUniformLocation class." alt="" coords="231,411,449,437"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Wt::Dbo::SqlConnectionPool" name="Wt::Dbo::SqlConnectionPool">
+<area shape="rect" id="node1" title="Abstract base class for a SQL connection pool." alt="" coords="21,5,209,32"/>
+<area shape="rect" id="node2" href="$classWt_1_1Dbo_1_1FixedSqlConnectionPool.html" title="A connection pool of fixed size." alt="" coords="5,80,225,107"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Wt::WReadOnlyProxyModel" name="Wt::WReadOnlyProxyModel">
+<area shape="rect" id="node1" title="A read&#45;only wrapper for a source model." alt="" coords="5,304,192,331"/>
+<area shape="rect" id="node2" href="$classWt_1_1WAbstractProxyModel.html" title="An abstract proxy model for Wt&#39;s item models." alt="" coords="9,229,188,256"/>
+<area shape="rect" id="node3" href="$classWt_1_1WAbstractItemModel.html" title="An abstract model for use with Wt&#39;s view classes." alt="" coords="14,155,183,181"/>
+<area shape="rect" id="node4" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="49,80,148,107"/>
+<area shape="rect" id="node5" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="27,5,170,32"/>
+</map>

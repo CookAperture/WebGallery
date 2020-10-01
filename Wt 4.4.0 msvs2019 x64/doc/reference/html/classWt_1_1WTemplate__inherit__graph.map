@@ -1,0 +1,14 @@
+<map id="Wt::WTemplate" name="Wt::WTemplate">
+<area shape="rect" id="node1" title="A widget that renders an XHTML template." alt="" coords="247,379,361,405"/>
+<area shape="rect" id="node7" href="$classWt_1_1Auth_1_1LostPasswordWidget.html" title="A widget which initiates a lost&#45;password email." alt="" coords="5,453,211,480"/>
+<area shape="rect" id="node8" href="$classWt_1_1WNavigationBar.html" title="A navigation bar." alt="" coords="235,453,373,480"/>
+<area shape="rect" id="node9" href="$classWt_1_1WTemplateFormView.html" title="A template&#45;based View class for form models." alt="" coords="397,453,568,480"/>
+<area shape="rect" id="node2" href="$classWt_1_1WInteractWidget.html" title="An abstract widget that can receive user&#45;interface interaction." alt="" coords="232,304,376,331"/>
+<area shape="rect" id="node3" href="$classWt_1_1WWebWidget.html" title="A base class for widgets with an HTML counterpart." alt="" coords="240,229,368,256"/>
+<area shape="rect" id="node4" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="253,155,355,181"/>
+<area shape="rect" id="node5" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="255,80,353,107"/>
+<area shape="rect" id="node6" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="233,5,375,32"/>
+<area shape="rect" id="node10" href="$classWt_1_1Auth_1_1AuthWidget.html" title="An authentication widget." alt="" coords="211,535,362,562"/>
+<area shape="rect" id="node11" href="$classWt_1_1Auth_1_1RegistrationWidget.html" title="A registration widget." alt="" coords="387,535,579,562"/>
+<area shape="rect" id="node12" href="$classWt_1_1Auth_1_1UpdatePasswordWidget.html" title="A widget which allows a user to choose a new password." alt="" coords="603,528,783,569"/>
+</map>

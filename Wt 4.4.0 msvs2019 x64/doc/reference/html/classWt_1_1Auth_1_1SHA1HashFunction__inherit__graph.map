@@ -1,0 +1,4 @@
+<map id="Wt::Auth::SHA1HashFunction" name="Wt::Auth::SHA1HashFunction">
+<area shape="rect" id="node1" title="A cryptographic hash function implemented using SHA1." alt="" coords="5,80,201,107"/>
+<area shape="rect" id="node2" href="$classWt_1_1Auth_1_1HashFunction.html" title="An abstract cryptographic hash function interface." alt="" coords="22,5,185,32"/>
+</map>

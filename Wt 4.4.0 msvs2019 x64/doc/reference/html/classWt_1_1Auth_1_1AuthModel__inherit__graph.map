@@ -1,0 +1,7 @@
+<map id="Wt::Auth::AuthModel" name="Wt::Auth::AuthModel">
+<area shape="rect" id="node1" title="Model for implementing an authentication view." alt="" coords="22,304,166,331"/>
+<area shape="rect" id="node2" href="$classWt_1_1Auth_1_1FormBaseModel.html" title="A base model class for authentication&#45;related forms." alt="" coords="5,229,183,256"/>
+<area shape="rect" id="node3" href="$classWt_1_1WFormModel.html" title="A basic model class for forms." alt="" coords="31,155,157,181"/>
+<area shape="rect" id="node4" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="45,80,143,107"/>
+<area shape="rect" id="node5" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="23,5,165,32"/>
+</map>

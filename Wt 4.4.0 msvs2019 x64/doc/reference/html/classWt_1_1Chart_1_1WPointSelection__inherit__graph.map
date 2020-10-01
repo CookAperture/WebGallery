@@ -1,0 +1,4 @@
+<map id="Wt::Chart::WPointSelection" name="Wt::Chart::WPointSelection">
+<area shape="rect" id="node1" title="Represents a single point selection on a WScatterData." alt="" coords="5,80,188,107"/>
+<area shape="rect" id="node2" href="$classWt_1_1Chart_1_1WSelection.html" title="Represents a selection on a chart." alt="" coords="20,5,173,32"/>
+</map>

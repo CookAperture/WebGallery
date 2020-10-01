@@ -1,0 +1,11 @@
+<map id="Wt::WLayoutItem" name="Wt::WLayoutItem">
+<area shape="rect" id="node1" title="An abstract base class for items that can participate in a layout." alt="" coords="305,5,429,32"/>
+<area shape="rect" id="node2" href="$classWt_1_1WLayout.html" title="An abstract base class for layout managers." alt="" coords="250,80,349,107"/>
+<area shape="rect" id="node9" href="$classWt_1_1WWidgetItem.html" title="A layout item that holds a single widget." alt="" coords="373,80,500,107"/>
+<area shape="rect" id="node3" href="$classWt_1_1WBorderLayout.html" title="A layout manager which divides the container region in five regions." alt="" coords="5,155,143,181"/>
+<area shape="rect" id="node4" href="$classWt_1_1WBoxLayout.html" title="A layout manager which arranges widgets horizontally or vertically." alt="" coords="167,155,290,181"/>
+<area shape="rect" id="node7" href="$classWt_1_1WFitLayout.html" title="A layout manager which spans a single widget to all available space." alt="" coords="314,155,429,181"/>
+<area shape="rect" id="node8" href="$classWt_1_1WGridLayout.html" title="A layout manager which arranges widgets in a grid." alt="" coords="453,155,575,181"/>
+<area shape="rect" id="node5" href="$classWt_1_1WHBoxLayout.html" title="A layout manager which arranges widgets horizontally." alt="" coords="86,229,217,256"/>
+<area shape="rect" id="node6" href="$classWt_1_1WVBoxLayout.html" title="A layout manager which arranges widgets vertically." alt="" coords="241,229,371,256"/>
+</map>

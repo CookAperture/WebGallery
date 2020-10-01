@@ -1,0 +1,10 @@
+<map id="Wt::WSelectionBox" name="Wt::WSelectionBox">
+<area shape="rect" id="node1" title="A selection box allows selection from a list of options." alt="" coords="9,528,146,555"/>
+<area shape="rect" id="node2" href="$classWt_1_1WComboBox.html" title="A widget that provides a drop&#45;down combo&#45;box control." alt="" coords="15,453,139,480"/>
+<area shape="rect" id="node3" href="$classWt_1_1WFormWidget.html" title="An abstract widget that corresponds to an HTML form element." alt="" coords="12,379,143,405"/>
+<area shape="rect" id="node4" href="$classWt_1_1WInteractWidget.html" title="An abstract widget that can receive user&#45;interface interaction." alt="" coords="5,304,149,331"/>
+<area shape="rect" id="node5" href="$classWt_1_1WWebWidget.html" title="A base class for widgets with an HTML counterpart." alt="" coords="13,229,141,256"/>
+<area shape="rect" id="node6" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="27,155,128,181"/>
+<area shape="rect" id="node7" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="28,80,127,107"/>
+<area shape="rect" id="node8" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="6,5,149,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classWt_1_1WLocalizedStrings.html" title="An abstract class that provides support for localized strings." alt="" coords="5,31,161,57"/>
+<area shape="rect" id="node2" href="$classWt_1_1WCombinedLocalizedStrings.html" title="A localized string resolver that bundles multiple string resolvers." alt="" coords="209,5,424,32"/>
+<area shape="rect" id="node3" href="$classWt_1_1WMessageResourceBundle.html" title="Support for localized strings using XML files." alt="" coords="213,56,421,83"/>
+</map>

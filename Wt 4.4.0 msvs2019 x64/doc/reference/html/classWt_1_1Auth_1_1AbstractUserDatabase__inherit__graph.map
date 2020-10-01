@@ -1,0 +1,4 @@
+<map id="Wt::Auth::AbstractUserDatabase" name="Wt::Auth::AbstractUserDatabase">
+<area shape="rect" id="node1" title="Abstract interface for an authentication user database." alt="" coords="5,5,219,32"/>
+<area shape="rect" id="node2" href="$classWt_1_1Auth_1_1Dbo_1_1UserDatabase.html" title="A default implementation for an authentication user database." alt="" coords="15,80,209,121"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Wt::Dbo::Exception" name="Wt::Dbo::Exception">
+<area shape="rect" id="node1" title="Exception base class for Wt::Dbo." alt="" coords="5,56,141,83"/>
+<area shape="rect" id="node2" href="$classWt_1_1Dbo_1_1NoUniqueResultException.html" title="Exception thrown when a query unexpectedly finds a non&#45;unique result." alt="" coords="190,5,419,32"/>
+<area shape="rect" id="node3" href="$classWt_1_1Dbo_1_1ObjectNotFoundException.html" title="Exception thrown when trying to load a non&#45;existing object." alt="" coords="189,56,420,83"/>
+<area shape="rect" id="node4" href="$classWt_1_1Dbo_1_1StaleObjectException.html" title="Exception thrown when Wt::Dbo detects a concurrent modification" alt="" coords="203,107,407,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Wt::WCssTemplateRule" name="Wt::WCssTemplateRule">
+<area shape="rect" id="node1" title="A CSS rule based on a template widget." alt="" coords="5,229,168,256"/>
+<area shape="rect" id="node2" href="$classWt_1_1WCssRule.html" title="Abstract rule in a CSS style sheet." alt="" coords="32,155,141,181"/>
+<area shape="rect" id="node3" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="37,80,136,107"/>
+<area shape="rect" id="node4" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="15,5,158,32"/>
+</map>

@@ -1,0 +1,82 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSimpleChatServer_1_1Client.html" title=" " alt="" coords="991,5,1157,32"/>
+<area shape="rect" id="node2" href="$classSimpleChatWidget.html" title="A self&#45;contained chat widget." alt="" coords="1233,5,1363,32"/>
+<area shape="rect" id="node3" href="$classPopupChatWidget.html" title="A popup chat widget." alt="" coords="1439,5,1565,32"/>
+<area shape="rect" id="node4" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1Core_1_1observable.html" title=" " alt="" coords="5,1779,148,1805"/>
+<area shape="rect" id="node5" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WObject.html" title=" " alt="" coords="196,1779,295,1805"/>
+<area shape="rect" id="node6" href="$classPopup.html" title="A JavaScript based popup window, encapsulating the Javascript functions alert(), confirm(),..." alt="" coords="398,1753,457,1780"/>
+<area shape="rect" id="node7" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WAbstractItemModel.html" title=" " alt="" coords="343,1804,512,1831"/>
+<area shape="rect" id="node11" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WApplication.html" title=" " alt="" coords="365,2032,489,2059"/>
+<area shape="rect" id="node23" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WWidget.html" title=" " alt="" coords="377,1627,478,1653"/>
+<area shape="rect" id="node8" href="$classGitModel.html" title="A model that retrieves revision trees from a git repository." alt="" coords="609,1753,683,1780"/>
+<area shape="rect" id="node9" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WStandardItemModel.html" title=" " alt="" coords="560,1804,732,1831"/>
+<area shape="rect" id="node10" href="$classFileModel.html" title="A specialized standard item model which report a specific drag and drop mime type." alt="" coords="822,1855,901,1881"/>
+<area shape="rect" id="node12" href="$classChartsApplication.html" title=" " alt="" coords="584,1855,708,1881"/>
+<area shape="rect" id="node13" href="$classChatApplication.html" title="A chat demo application." alt="" coords="589,1905,703,1932"/>
+<area shape="rect" id="node14" href="$classChatWidget.html" title="A chat application widget." alt="" coords="601,1956,691,1983"/>
+<area shape="rect" id="node15" href="$classGitViewApplication.html" title="A simple application to navigate a git repository." alt="" coords="581,2007,711,2033"/>
+<area shape="rect" id="node16" href="$classHelloApplication.html" title=" " alt="" coords="589,2057,703,2084"/>
+<area shape="rect" id="node17" href="$classHome.html" title=" " alt="" coords="618,2108,674,2135"/>
+<area shape="rect" id="node20" href="$classJavascriptExample.html" title="An example showing how to interact custom JavaScript with Wt stuff." alt="" coords="581,2159,711,2185"/>
+<area shape="rect" id="node21" href="$classPaintApplication.html" title=" " alt="" coords="588,2209,704,2236"/>
+<area shape="rect" id="node22" href="$classTreeViewDragDrop.html" title="Main application class." alt="" coords="581,2260,711,2287"/>
+<area shape="rect" id="node18" href="$classJWtHome.html" title=" " alt="" coords="822,2083,901,2109"/>
+<area shape="rect" id="node19" href="$classWtHome.html" title=" " alt="" coords="825,2133,898,2160"/>
+<area shape="rect" id="node24" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WCompositeWidget.html" title=" " alt="" coords="565,1627,727,1653"/>
+<area shape="rect" id="node42" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WWebWidget.html" title=" " alt="" coords="582,1399,710,1425"/>
+<area shape="rect" id="node25" href="$classComposer.html" title="An E&#45;mail composer widget." alt="" coords="821,1449,902,1476"/>
+<area shape="rect" id="node26" href="$classIconPair.html" title="An icon pair (identical to WIconPair)" alt="" coords="827,1500,896,1527"/>
+<area shape="rect" id="node27" href="$classLettersWidget.html" title=" " alt="" coords="810,1551,913,1577"/>
+<area shape="rect" id="node28" href="$classTreeNode.html" title="Example implementation of a single tree list node." alt="" coords="823,1601,900,1628"/>
+<area shape="rect" id="node29" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WAbstractItemView.html" title=" " alt="" coords="780,1652,943,1679"/>
+<area shape="rect" id="node32" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WPopupWidget.html" title=" " alt="" coords="792,1703,931,1729"/>
+<area shape="rect" id="node37" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WTreeNode.html" title=" " alt="" coords="804,1753,919,1780"/>
+<area shape="rect" id="node40" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WTreeTable.html" title=" " alt="" coords="803,1804,919,1831"/>
+<area shape="rect" id="node30" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WTreeView.html" title=" " alt="" coords="1017,1601,1131,1628"/>
+<area shape="rect" id="node31" href="$classFolderView.html" title="A specialized treeview that supports a custom drop event." alt="" coords="1255,1601,1341,1628"/>
+<area shape="rect" id="node33" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WDialog.html" title=" " alt="" coords="1026,1652,1122,1679"/>
+<area shape="rect" id="node35" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WSuggestionPopup.html" title=" " alt="" coords="993,1703,1155,1729"/>
+<area shape="rect" id="node34" href="$classFileEditDialog.html" title="A dialog for editing a &#39;file&#39;." alt="" coords="1247,1652,1349,1679"/>
+<area shape="rect" id="node36" href="$classContactSuggestions.html" title="A suggestion popup suggesting contacts from an addressbook." alt="" coords="1229,1703,1367,1729"/>
+<area shape="rect" id="node38" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WTreeTableNode.html" title=" " alt="" coords="1001,1753,1147,1780"/>
+<area shape="rect" id="node39" href="$classFileTreeTableNode.html" title="A single node in a file tree table." alt="" coords="1233,1753,1363,1780"/>
+<area shape="rect" id="node41" href="$classFileTreeTable.html" title="A tree table that displays a file tree." alt="" coords="1025,1804,1123,1831"/>
+<area shape="rect" id="node43" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WInteractWidget.html" title=" " alt="" coords="789,1297,933,1324"/>
+<area shape="rect" id="node79" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WViewWidget.html" title=" " alt="" coords="797,1399,926,1425"/>
+<area shape="rect" id="node44" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WContainerWidget.html" title=" " alt="" coords="996,613,1152,640"/>
+<area shape="rect" id="node68" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WFormWidget.html" title=" " alt="" coords="1009,1221,1139,1248"/>
+<area shape="rect" id="node71" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WPaintedWidget.html" title=" " alt="" coords="1001,1272,1147,1299"/>
+<area shape="rect" id="node73" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WTable.html" title=" " alt="" coords="1029,1323,1119,1349"/>
+<area shape="rect" id="node75" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WText.html" title=" " alt="" coords="1031,1373,1117,1400"/>
+<area shape="rect" id="node45" href="$classAttachmentEdit.html" title="An edit field for an email attachment." alt="" coords="1242,56,1354,83"/>
+<area shape="rect" id="node46" href="$classAttachmentEdit_1_1UploadInfo.html" title=" " alt="" coords="1208,107,1388,133"/>
+<area shape="rect" id="node47" href="$classCategoryExample.html" title="A Widget that demonstrates a category chart." alt="" coords="1235,157,1361,184"/>
+<area shape="rect" id="node48" href="$classChartConfig.html" title="A class that allows configuration of a cartesian chart." alt="" coords="1253,208,1343,235"/>
+<area shape="rect" id="node49" href="$classChartsExample.html" title="A widget that demonstrates various aspects of the charting lib." alt="" coords="1243,259,1353,285"/>
+<area shape="rect" id="node50" href="$classComposeExample.html" title="Main widget of the Composer example." alt="" coords="1234,309,1362,336"/>
+<area shape="rect" id="node51" href="$classDeferredWidget.html" title=" " alt="" coords="1205,360,1391,387"/>
+<area shape="rect" id="node52" href="$classDemoTreeList.html" title="A demonstration of the treelist." alt="" coords="1247,411,1349,437"/>
+<area shape="rect" id="node53" href="$classDragExample.html" title="Class demonstrating drag and drop in Wt." alt="" coords="1248,461,1348,488"/>
+<area shape="rect" id="node54" href="$classExampleSourceViewer.html" title="A simple widget to visualise a set of example source files." alt="" coords="1221,512,1375,539"/>
+<area shape="rect" id="node55" href="$classFormExample.html" title="Main widget for the Form example." alt="" coords="1247,563,1349,589"/>
+<area shape="rect" id="node56" href="$classHangmanGame.html" title=" " alt="" coords="1242,613,1354,640"/>
+<area shape="rect" id="node57" href="$classHangmanWidget.html" title=" " alt="" coords="1239,664,1357,691"/>
+<area shape="rect" id="node58" href="$classHighScoresWidget.html" title=" " alt="" coords="1233,715,1363,741"/>
+<area shape="rect" id="node59" href="$classImagesWidget.html" title=" " alt="" coords="1245,765,1351,792"/>
+<area shape="rect" id="node60" href="$classOption.html" title="A clickable option." alt="" coords="1268,816,1328,843"/>
+<area shape="rect" id="node61" href="$classOptionList.html" title="A list of options, separated by &#39;|&#39;." alt="" coords="1257,867,1339,893"/>
+<area shape="rect" id="node62" href="$classPaintExample.html" title=" " alt="" coords="1247,917,1349,944"/>
+<area shape="rect" id="node63" href="$classPanelList.html" title=" " alt="" coords="1260,968,1336,995"/>
+<area shape="rect" id="node64" href="$classPieExample.html" title="A Widget that demonstrates a Pie chart." alt="" coords="1252,1019,1344,1045"/>
+<area shape="rect" id="node65" href="$classScatterPlotExample.html" title="A Widget that demonstrates a scatter plot." alt="" coords="1229,1069,1367,1096"/>
+<area shape="rect" id="node66" href="$classTimeSeriesExample.html" title="A widget that demonstrates a times series chart." alt="" coords="1229,1120,1367,1147"/>
+<area shape="rect" id="node67" href="$classWordWidget.html" title=" " alt="" coords="1251,1171,1345,1197"/>
+<area shape="rect" id="node69" href="E:/b/workspace/wt4-win/c/14.2/l/bw7r/p/amd64/build/wt-src/wt.tags$classWt_1_1WTextArea.html" title=" " alt="" coords="1242,1221,1354,1248"/>
+<area shape="rect" id="node70" href="$classAddresseeEdit.html" title="An edit field for an email addressee." alt="" coords="1449,1221,1555,1248"/>
+<area shape="rect" id="node72" href="$classShapesWidget.html" title=" " alt="" coords="1245,1272,1351,1299"/>
+<area shape="rect" id="node74" href="$classForm.html" title="A simple Form." alt="" coords="1272,1323,1324,1349"/>
+<area shape="rect" id="node76" href="$classCharacter.html" title="A Matrix character that takes red and/or blue pills." alt="" coords="1259,1373,1337,1400"/>
+<area shape="rect" id="node77" href="$classCountDownWidget.html" title="A widget which displays a decrementing number." alt="" coords="1233,1424,1363,1451"/>
+<area shape="rect" id="node78" href="$classLabel.html" title="A label." alt="" coords="1271,1475,1325,1501"/>
+<area shape="rect" id="node80" href="$classSourceView.html" title="View class for source code." alt="" coords="1029,1424,1119,1451"/>
+</map>

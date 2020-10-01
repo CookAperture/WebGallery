@@ -1,0 +1,24 @@
+<map id="Wt::WFormWidget" name="Wt::WFormWidget">
+<area shape="rect" id="node1" title="An abstract widget that corresponds to an HTML form element." alt="" coords="860,195,991,221"/>
+<area shape="rect" id="node7" href="$classWt_1_1WAbstractToggleButton.html" title="An abstract base class for radio buttons and check boxes." alt="" coords="1039,43,1224,69"/>
+<area shape="rect" id="node10" href="$classWt_1_1WColorPicker.html" title="A widget that provides a browser&#45;native color picker." alt="" coords="1068,93,1195,120"/>
+<area shape="rect" id="node11" href="$classWt_1_1WComboBox.html" title="A widget that provides a drop&#45;down combo&#45;box control." alt="" coords="1069,144,1193,171"/>
+<area shape="rect" id="node13" href="$classWt_1_1WLineEdit.html" title="A widget that provides a single line edit." alt="" coords="1078,195,1185,221"/>
+<area shape="rect" id="node19" href="$classWt_1_1WPushButton.html" title="A widget that represents a push button." alt="" coords="1067,245,1195,272"/>
+<area shape="rect" id="node20" href="$classWt_1_1WSlider.html" title="A horizontal or vertical slider control." alt="" coords="1085,296,1178,323"/>
+<area shape="rect" id="node21" href="$classWt_1_1WTextArea.html" title="A widget that provides a multi&#45;line edit." alt="" coords="1075,347,1187,373"/>
+<area shape="rect" id="node2" href="$classWt_1_1WInteractWidget.html" title="An abstract widget that can receive user&#45;interface interaction." alt="" coords="668,195,812,221"/>
+<area shape="rect" id="node3" href="$classWt_1_1WWebWidget.html" title="A base class for widgets with an HTML counterpart." alt="" coords="492,195,620,221"/>
+<area shape="rect" id="node4" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="343,195,444,221"/>
+<area shape="rect" id="node5" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="196,195,295,221"/>
+<area shape="rect" id="node6" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="5,195,148,221"/>
+<area shape="rect" id="node8" href="$classWt_1_1WCheckBox.html" title="A user control that represents a check box." alt="" coords="1291,5,1411,32"/>
+<area shape="rect" id="node9" href="$classWt_1_1WRadioButton.html" title="A user control that represents a radio button." alt="" coords="1286,56,1417,83"/>
+<area shape="rect" id="node12" href="$classWt_1_1WSelectionBox.html" title="A selection box allows selection from a list of options." alt="" coords="1283,132,1420,159"/>
+<area shape="rect" id="node14" href="$classWt_1_1WAbstractSpinBox.html" title="An abstract spin box." alt="" coords="1272,183,1431,209"/>
+<area shape="rect" id="node17" href="$classWt_1_1WDateEdit.html" title="A date edit." alt="" coords="1296,233,1407,260"/>
+<area shape="rect" id="node18" href="$classWt_1_1WTimeEdit.html" title="A Time field editor." alt="" coords="1296,284,1407,311"/>
+<area shape="rect" id="node15" href="$classWt_1_1WDoubleSpinBox.html" title="An input control for fixed point numbers." alt="" coords="1479,157,1628,184"/>
+<area shape="rect" id="node16" href="$classWt_1_1WSpinBox.html" title="An input control for integer numbers." alt="" coords="1499,208,1608,235"/>
+<area shape="rect" id="node22" href="$classWt_1_1WTextEdit.html" title="A rich&#45;text XHTML editor." alt="" coords="1297,347,1405,373"/>
+</map>

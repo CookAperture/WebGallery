@@ -1,0 +1,10 @@
+<map id="Wt::WPaintDevice" name="Wt::WPaintDevice">
+<area shape="rect" id="node1" title="The abstract base class for a paint device." alt="" coords="5,107,133,133"/>
+<area shape="rect" id="node2" href="$classWt_1_1WCanvasPaintDevice.html" title="A paint device for rendering using the HTML 5 &lt;canvas&gt; element." alt="" coords="185,5,356,32"/>
+<area shape="rect" id="node3" href="$classWt_1_1WMeasurePaintDevice.html" title="WMeasurePaintDevice Wt/WMeasurePaintDevice Wt/WMeasurePaintDevice." alt="" coords="181,56,360,83"/>
+<area shape="rect" id="node4" href="$classWt_1_1WPdfImage.html" title="A paint device for rendering to a PDF." alt="" coords="213,107,328,133"/>
+<area shape="rect" id="node5" href="$classWt_1_1WRasterImage.html" title="A paint device for rendering to a raster image." alt="" coords="204,157,337,184"/>
+<area shape="rect" id="node6" href="$classWt_1_1WVectorImage.html" title="An abstract paint device for rendering using native vector graphics." alt="" coords="204,208,337,235"/>
+<area shape="rect" id="node7" href="$classWt_1_1WSvgImage.html" title="A paint device for rendering using Scalable Vector Graphics (SVG)." alt="" coords="409,183,525,209"/>
+<area shape="rect" id="node8" href="$classWt_1_1WVmlImage.html" title="A paint device for rendering using the VML pseudo&#45;standard." alt="" coords="408,233,527,260"/>
+</map>

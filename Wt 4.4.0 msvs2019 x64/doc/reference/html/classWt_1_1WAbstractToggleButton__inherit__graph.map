@@ -1,0 +1,11 @@
+<map id="Wt::WAbstractToggleButton" name="Wt::WAbstractToggleButton">
+<area shape="rect" id="node1" title="An abstract base class for radio buttons and check boxes." alt="" coords="47,453,233,480"/>
+<area shape="rect" id="node8" href="$classWt_1_1WCheckBox.html" title="A user control that represents a check box." alt="" coords="5,528,125,555"/>
+<area shape="rect" id="node9" href="$classWt_1_1WRadioButton.html" title="A user control that represents a radio button." alt="" coords="149,528,280,555"/>
+<area shape="rect" id="node2" href="$classWt_1_1WFormWidget.html" title="An abstract widget that corresponds to an HTML form element." alt="" coords="75,379,205,405"/>
+<area shape="rect" id="node3" href="$classWt_1_1WInteractWidget.html" title="An abstract widget that can receive user&#45;interface interaction." alt="" coords="68,304,212,331"/>
+<area shape="rect" id="node4" href="$classWt_1_1WWebWidget.html" title="A base class for widgets with an HTML counterpart." alt="" coords="76,229,204,256"/>
+<area shape="rect" id="node5" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="89,155,191,181"/>
+<area shape="rect" id="node6" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="91,80,189,107"/>
+<area shape="rect" id="node7" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="69,5,211,32"/>
+</map>

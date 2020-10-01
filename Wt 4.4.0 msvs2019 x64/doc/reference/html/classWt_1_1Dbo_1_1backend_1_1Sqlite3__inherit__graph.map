@@ -1,0 +1,4 @@
+<map id="Wt::Dbo::backend::Sqlite3" name="Wt::Dbo::backend::Sqlite3">
+<area shape="rect" id="node1" title="An SQLite3 connection." alt="" coords="5,80,180,107"/>
+<area shape="rect" id="node2" href="$classWt_1_1Dbo_1_1SqlConnection.html" title="Abstract base class for an SQL connection." alt="" coords="11,5,174,32"/>
+</map>
