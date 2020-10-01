@@ -1,2 +1,11 @@
 *.ipch
 .vs
+*.obj
+*.idb
+*.pdb
+*.exe
+*.log
+*.ilk
+*.recipe
+*.tlog
+*.lastbuildstate
