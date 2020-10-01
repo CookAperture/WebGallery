@@ -1,7 +1,0 @@
-<map id="Wt::WAbstractTableModel" name="Wt::WAbstractTableModel">
-<area shape="rect" id="node1" title="An abstract table model for use with Wt&#39;s view classes." alt="" coords="5,229,180,256"/>
-<area shape="rect" id="node5" href="$classWt_1_1Dbo_1_1QueryModel.html" title="A Wt MVC Model to view/edit query results." alt="" coords="19,304,167,345"/>
-<area shape="rect" id="node2" href="$classWt_1_1WAbstractItemModel.html" title="An abstract model for use with Wt&#39;s view classes." alt="" coords="8,155,177,181"/>
-<area shape="rect" id="node3" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="43,80,142,107"/>
-<area shape="rect" id="node4" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="21,5,164,32"/>
-</map>

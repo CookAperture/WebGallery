@@ -1,6 +1,0 @@
-<map id="Wt::WCanvasPaintDevice" name="Wt::WCanvasPaintDevice">
-<area shape="rect" id="node1" title="A paint device for rendering using the HTML 5 &lt;canvas&gt; element." alt="" coords="59,155,230,181"/>
-<area shape="rect" id="node2" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="27,80,126,107"/>
-<area shape="rect" id="node3" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="5,5,148,32"/>
-<area shape="rect" id="node4" href="$classWt_1_1WPaintDevice.html" title="The abstract base class for a paint device." alt="" coords="150,80,278,107"/>
-</map>

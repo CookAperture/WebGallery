@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classWt_1_1WJavaScriptExposableObject.html" title="A JavaScript exposable object." alt="" coords="5,125,185,166"/>
-<area shape="rect" id="node2" href="$classWt_1_1WBrush.html" title="A value class that defines the style for filling a path." alt="" coords="250,5,345,32"/>
-<area shape="rect" id="node3" href="$classWt_1_1WPainterPath.html" title="A path defining a shape." alt="" coords="233,56,361,83"/>
-<area shape="rect" id="node4" href="$classWt_1_1WPen.html" title="A value class that defines the style for pen strokes." alt="" coords="256,107,339,133"/>
-<area shape="rect" id="node5" href="$classWt_1_1WPointF.html" title="A value class that defines a 2D point." alt="" coords="248,157,347,184"/>
-<area shape="rect" id="node6" href="$classWt_1_1WRectF.html" title="A value class that defines a rectangle." alt="" coords="250,208,345,235"/>
-<area shape="rect" id="node7" href="$classWt_1_1WTransform.html" title="A value class that defines a 2D affine transformation matrix." alt="" coords="239,259,356,285"/>
-</map>

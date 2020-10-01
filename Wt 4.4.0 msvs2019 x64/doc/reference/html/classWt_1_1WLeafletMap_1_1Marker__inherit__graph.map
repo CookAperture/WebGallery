@@ -1,5 +1,0 @@
-<map id="Wt::WLeafletMap::Marker" name="Wt::WLeafletMap::Marker">
-<area shape="rect" id="node1" title="An abstract marker." alt="" coords="111,5,282,32"/>
-<area shape="rect" id="node2" href="$classWt_1_1WLeafletMap_1_1LeafletMarker.html" title="A standard leaflet marker." alt="" coords="5,80,175,121"/>
-<area shape="rect" id="node3" href="$classWt_1_1WLeafletMap_1_1WidgetMarker.html" title="A marker rendered with a widget." alt="" coords="199,87,411,114"/>
-</map>

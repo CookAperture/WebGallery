@@ -1,7 +1,0 @@
-<map id="Wt::WSortFilterProxyModel" name="Wt::WSortFilterProxyModel">
-<area shape="rect" id="node1" title="A proxy model for Wt&#39;s item models that provides filtering and/or sorting." alt="" coords="5,304,188,331"/>
-<area shape="rect" id="node2" href="$classWt_1_1WAbstractProxyModel.html" title="An abstract proxy model for Wt&#39;s item models." alt="" coords="7,229,186,256"/>
-<area shape="rect" id="node3" href="$classWt_1_1WAbstractItemModel.html" title="An abstract model for use with Wt&#39;s view classes." alt="" coords="12,155,181,181"/>
-<area shape="rect" id="node4" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="47,80,146,107"/>
-<area shape="rect" id="node5" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="25,5,168,32"/>
-</map>

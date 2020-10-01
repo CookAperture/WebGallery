@@ -1,8 +1,0 @@
-<map id="Wt::WViewWidget" name="Wt::WViewWidget">
-<area shape="rect" id="node1" title="An abstract base class for an MVC view that is rendered using a widget." alt="" coords="19,304,149,331"/>
-<area shape="rect" id="node6" href="$classWt_1_1WStaticModelView.html" title="A widget that implements a view for a non&#45;changing model." alt="" coords="5,379,163,420"/>
-<area shape="rect" id="node2" href="$classWt_1_1WWebWidget.html" title="A base class for widgets with an HTML counterpart." alt="" coords="20,229,148,256"/>
-<area shape="rect" id="node3" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="33,155,135,181"/>
-<area shape="rect" id="node4" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="35,80,133,107"/>
-<area shape="rect" id="node5" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="13,5,155,32"/>
-</map>

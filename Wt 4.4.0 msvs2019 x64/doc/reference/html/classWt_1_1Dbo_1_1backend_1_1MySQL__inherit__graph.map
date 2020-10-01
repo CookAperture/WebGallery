@@ -1,4 +1,0 @@
-<map id="Wt::Dbo::backend::MySQL" name="Wt::Dbo::backend::MySQL">
-<area shape="rect" id="node1" title="A MySQL connection." alt="" coords="5,80,184,107"/>
-<area shape="rect" id="node2" href="$classWt_1_1Dbo_1_1SqlConnection.html" title="Abstract base class for an SQL connection." alt="" coords="13,5,176,32"/>
-</map>

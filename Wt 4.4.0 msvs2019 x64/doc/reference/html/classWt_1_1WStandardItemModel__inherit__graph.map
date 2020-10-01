@@ -1,6 +1,0 @@
-<map id="Wt::WStandardItemModel" name="Wt::WStandardItemModel">
-<area shape="rect" id="node1" title="A standard data model, which stores its data in memory." alt="" coords="5,229,177,256"/>
-<area shape="rect" id="node2" href="$classWt_1_1WAbstractItemModel.html" title="An abstract model for use with Wt&#39;s view classes." alt="" coords="7,155,176,181"/>
-<area shape="rect" id="node3" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="42,80,141,107"/>
-<area shape="rect" id="node4" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="20,5,163,32"/>
-</map>

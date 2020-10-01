@@ -1,4 +1,0 @@
-<map id="Wt::Dbo::ObjectNotFoundException" name="Wt::Dbo::ObjectNotFoundException">
-<area shape="rect" id="node1" title="Exception thrown when trying to load a non&#45;existing object." alt="" coords="5,80,236,107"/>
-<area shape="rect" id="node2" href="$classWt_1_1Dbo_1_1Exception.html" title="Exception base class for Wt::Dbo." alt="" coords="53,5,189,32"/>
-</map>

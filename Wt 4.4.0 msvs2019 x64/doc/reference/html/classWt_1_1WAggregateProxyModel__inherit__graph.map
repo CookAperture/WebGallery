@@ -1,7 +1,0 @@
-<map id="Wt::WAggregateProxyModel" name="Wt::WAggregateProxyModel">
-<area shape="rect" id="node1" title="A proxy model for Wt&#39;s item models that provides column aggregation." alt="" coords="5,304,193,331"/>
-<area shape="rect" id="node2" href="$classWt_1_1WAbstractProxyModel.html" title="An abstract proxy model for Wt&#39;s item models." alt="" coords="10,229,189,256"/>
-<area shape="rect" id="node3" href="$classWt_1_1WAbstractItemModel.html" title="An abstract model for use with Wt&#39;s view classes." alt="" coords="15,155,184,181"/>
-<area shape="rect" id="node4" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="50,80,149,107"/>
-<area shape="rect" id="node5" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="28,5,171,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Wt::Payment::PayPalExpressCheckout" name="Wt::Payment::PayPalExpressCheckout">
-<area shape="rect" id="node1" title="A paypal express checkout process." alt="" coords="5,155,203,196"/>
-<area shape="rect" id="node2" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="55,80,153,107"/>
-<area shape="rect" id="node3" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="33,5,175,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Wt::WIdentityProxyModel" name="Wt::WIdentityProxyModel">
-<area shape="rect" id="node1" title="A proxy model that proxies its source model unmodified." alt="" coords="9,304,180,331"/>
-<area shape="rect" id="node2" href="$classWt_1_1WAbstractProxyModel.html" title="An abstract proxy model for Wt&#39;s item models." alt="" coords="5,229,184,256"/>
-<area shape="rect" id="node3" href="$classWt_1_1WAbstractItemModel.html" title="An abstract model for use with Wt&#39;s view classes." alt="" coords="10,155,179,181"/>
-<area shape="rect" id="node4" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="45,80,144,107"/>
-<area shape="rect" id="node5" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="23,5,166,32"/>
-</map>

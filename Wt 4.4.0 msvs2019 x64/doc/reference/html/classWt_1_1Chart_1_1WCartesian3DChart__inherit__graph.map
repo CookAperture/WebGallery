@@ -1,9 +1,0 @@
-<map id="Wt::Chart::WCartesian3DChart" name="Wt::Chart::WCartesian3DChart">
-<area shape="rect" id="node1" title="A 3D Cartesian chart." alt="" coords="5,453,207,480"/>
-<area shape="rect" id="node2" href="$classWt_1_1WGLWidget.html" title="GL support class." alt="" coords="47,379,165,405"/>
-<area shape="rect" id="node3" href="$classWt_1_1WInteractWidget.html" title="An abstract widget that can receive user&#45;interface interaction." alt="" coords="34,304,178,331"/>
-<area shape="rect" id="node4" href="$classWt_1_1WWebWidget.html" title="A base class for widgets with an HTML counterpart." alt="" coords="42,229,170,256"/>
-<area shape="rect" id="node5" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="55,155,157,181"/>
-<area shape="rect" id="node6" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="57,80,155,107"/>
-<area shape="rect" id="node7" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="35,5,177,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Wt::WBreak" name="Wt::WBreak">
-<area shape="rect" id="node1" title="A widget that provides a line break between inline widgets." alt="" coords="29,304,124,331"/>
-<area shape="rect" id="node2" href="$classWt_1_1WWebWidget.html" title="A base class for widgets with an HTML counterpart." alt="" coords="13,229,141,256"/>
-<area shape="rect" id="node3" href="$classWt_1_1WWidget.html" title="The abstract base class for a user&#45;interface component." alt="" coords="26,155,127,181"/>
-<area shape="rect" id="node4" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="27,80,126,107"/>
-<area shape="rect" id="node5" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="5,5,148,32"/>
-</map>

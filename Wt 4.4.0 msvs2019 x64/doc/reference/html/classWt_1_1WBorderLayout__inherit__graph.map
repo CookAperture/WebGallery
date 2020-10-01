@@ -1,7 +1,0 @@
-<map id="Wt::WBorderLayout" name="Wt::WBorderLayout">
-<area shape="rect" id="node1" title="A layout manager which divides the container region in five regions." alt="" coords="67,229,204,256"/>
-<area shape="rect" id="node2" href="$classWt_1_1WLayout.html" title="An abstract base class for layout managers." alt="" coords="86,155,185,181"/>
-<area shape="rect" id="node3" href="$classWt_1_1WLayoutItem.html" title="An abstract base class for items that can participate in a layout." alt="" coords="5,80,129,107"/>
-<area shape="rect" id="node4" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="154,80,253,107"/>
-<area shape="rect" id="node5" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="132,5,275,32"/>
-</map>

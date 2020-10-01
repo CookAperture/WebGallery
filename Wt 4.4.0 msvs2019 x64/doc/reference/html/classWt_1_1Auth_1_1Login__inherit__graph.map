@@ -1,5 +1,0 @@
-<map id="Wt::Auth::Login" name="Wt::Auth::Login">
-<area shape="rect" id="node1" title="A class that manages the current login state." alt="" coords="20,155,133,181"/>
-<area shape="rect" id="node2" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="27,80,126,107"/>
-<area shape="rect" id="node3" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="5,5,148,32"/>
-</map>

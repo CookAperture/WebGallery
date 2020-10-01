@@ -1,4 +1,0 @@
-<map id="Wt::Chart::WStandardPalette" name="Wt::Chart::WStandardPalette">
-<area shape="rect" id="node1" title="Standard styling for rendering series in charts." alt="" coords="5,80,197,107"/>
-<area shape="rect" id="node2" href="$classWt_1_1Chart_1_1WChartPalette.html" title="Abstract base class for styling rendered data series in charts." alt="" coords="16,5,187,32"/>
-</map>

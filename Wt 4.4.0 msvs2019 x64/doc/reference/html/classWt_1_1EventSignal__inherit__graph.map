@@ -1,5 +1,0 @@
-<map id="Wt::EventSignal&lt; E &gt;" name="Wt::EventSignal&lt; E &gt;">
-<area shape="rect" id="node1" title="A signal that conveys user&#45;interface events." alt="" coords="5,155,153,181"/>
-<area shape="rect" id="node2" href="$classWt_1_1EventSignalBase.html" title="Abstract base class of an event signal." alt="" coords="7,80,152,107"/>
-<area shape="rect" id="node3" href="$classWt_1_1SignalBase.html" title="Abstract base class of a signal." alt="" coords="23,5,136,32"/>
-</map>

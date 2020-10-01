@@ -1,4 +1,0 @@
-<map id="Wt::Dbo::backend::Postgres" name="Wt::Dbo::backend::Postgres">
-<area shape="rect" id="node1" title="A PostgreSQL connection." alt="" coords="5,80,192,107"/>
-<area shape="rect" id="node2" href="$classWt_1_1Dbo_1_1SqlConnection.html" title="Abstract base class for an SQL connection." alt="" coords="17,5,180,32"/>
-</map>

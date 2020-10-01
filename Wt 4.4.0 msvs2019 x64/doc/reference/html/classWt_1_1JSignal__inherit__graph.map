@@ -1,5 +1,0 @@
-<map id="Wt::JSignal&lt; A &gt;" name="Wt::JSignal&lt; A &gt;">
-<area shape="rect" id="node1" title="A signal to relay JavaScript to C++ calls." alt="" coords="17,155,139,181"/>
-<area shape="rect" id="node2" href="$classWt_1_1EventSignalBase.html" title="Abstract base class of an event signal." alt="" coords="5,80,151,107"/>
-<area shape="rect" id="node3" href="$classWt_1_1SignalBase.html" title="Abstract base class of a signal." alt="" coords="21,5,135,32"/>
-</map>

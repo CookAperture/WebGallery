@@ -1,6 +1,0 @@
-<map id="Wt::WVectorImage" name="Wt::WVectorImage">
-<area shape="rect" id="node1" title="An abstract paint device for rendering using native vector graphics." alt="" coords="67,80,201,107"/>
-<area shape="rect" id="node3" href="$classWt_1_1WSvgImage.html" title="A paint device for rendering using Scalable Vector Graphics (SVG)." alt="" coords="5,155,121,181"/>
-<area shape="rect" id="node4" href="$classWt_1_1WVmlImage.html" title="A paint device for rendering using the VML pseudo&#45;standard." alt="" coords="145,155,264,181"/>
-<area shape="rect" id="node2" href="$classWt_1_1WPaintDevice.html" title="The abstract base class for a paint device." alt="" coords="70,5,198,32"/>
-</map>

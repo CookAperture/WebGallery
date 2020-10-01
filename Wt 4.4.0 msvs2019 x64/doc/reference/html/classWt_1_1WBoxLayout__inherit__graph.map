@@ -1,9 +1,0 @@
-<map id="Wt::WBoxLayout" name="Wt::WBoxLayout">
-<area shape="rect" id="node1" title="A layout manager which arranges widgets horizontally or vertically." alt="" coords="87,229,209,256"/>
-<area shape="rect" id="node6" href="$classWt_1_1WHBoxLayout.html" title="A layout manager which arranges widgets horizontally." alt="" coords="5,304,136,331"/>
-<area shape="rect" id="node7" href="$classWt_1_1WVBoxLayout.html" title="A layout manager which arranges widgets vertically." alt="" coords="160,304,291,331"/>
-<area shape="rect" id="node2" href="$classWt_1_1WLayout.html" title="An abstract base class for layout managers." alt="" coords="99,155,197,181"/>
-<area shape="rect" id="node3" href="$classWt_1_1WLayoutItem.html" title="An abstract base class for items that can participate in a layout." alt="" coords="18,80,142,107"/>
-<area shape="rect" id="node4" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="167,80,265,107"/>
-<area shape="rect" id="node5" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="145,5,287,32"/>
-</map>

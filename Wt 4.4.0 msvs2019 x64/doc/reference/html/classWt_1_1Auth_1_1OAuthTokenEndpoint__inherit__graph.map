@@ -1,6 +1,0 @@
-<map id="Wt::Auth::OAuthTokenEndpoint" name="Wt::Auth::OAuthTokenEndpoint">
-<area shape="rect" id="node1" title="Endpoint to retrieve an access token." alt="" coords="5,229,211,256"/>
-<area shape="rect" id="node2" href="$classWt_1_1WResource.html" title="An object which can be rendered in the HTTP protocol." alt="" coords="51,155,165,181"/>
-<area shape="rect" id="node3" href="$classWt_1_1WObject.html" title="A base class for objects that participate in the signal/slot system." alt="" coords="59,80,157,107"/>
-<area shape="rect" id="node4" href="$classWt_1_1Core_1_1observable.html" title="A base class for objects whose life&#45;time can be tracked." alt="" coords="37,5,179,32"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="Wt::Auth::FacebookService" name="Wt::Auth::FacebookService">
-<area shape="rect" id="node1" title="OAuth service for Facebook as third&#45;party authenticator." alt="" coords="5,80,187,107"/>
-<area shape="rect" id="node2" href="$classWt_1_1Auth_1_1OAuthService.html" title="An OAuth authorization (and authentication) service provider." alt="" coords="15,5,177,32"/>
-</map>

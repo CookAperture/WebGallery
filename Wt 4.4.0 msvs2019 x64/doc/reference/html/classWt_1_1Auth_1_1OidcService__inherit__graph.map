@@ -1,5 +1,0 @@
-<map id="Wt::Auth::OidcService" name="Wt::Auth::OidcService">
-<area shape="rect" id="node1" title="An OpenId Connect authentication service provider." alt="" coords="13,80,163,107"/>
-<area shape="rect" id="node3" href="$classWt_1_1Auth_1_1GoogleService.html" title="OAuth service for Google as third&#45;party authenticator." alt="" coords="5,155,171,181"/>
-<area shape="rect" id="node2" href="$classWt_1_1Auth_1_1OAuthService.html" title="An OAuth authorization (and authentication) service provider." alt="" coords="7,5,169,32"/>
-</map>
