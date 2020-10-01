@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<messages>
+  <message id="main">
+    <div class="form">
+      <p>
+        <label>Please enter your name: ${name-edit}</label>
+      </p>
+      <p>
+        ${save-button} ${cancel-button}
+      </p>
+    </div>
+  </message>
+</messages>

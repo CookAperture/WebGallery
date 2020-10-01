@@ -1,0 +1,2 @@
+H:\TraineeProjectsCpp\Wt\WtBasicSkeleton\x64\Debug\WtBasicSkeleton.exe
+H:\TraineeProjectsCpp\Wt\WtBasicSkeleton\x64\Debug\WtBasicSkeleton.pdb
