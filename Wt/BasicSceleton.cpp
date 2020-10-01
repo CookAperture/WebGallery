@@ -8,7 +8,7 @@ ControlExample::ControlExample(const Wt::WEnvironment& env)
     //ressource init
     appName = "Basic Skeleton";
     messageResourceBundle().use(appRoot() + "xml/main");
-    useStyleSheet(appRoot() + "main.css");
+    useStyleSheet("main.css");
 
     //main init
     setTitle(appName);
