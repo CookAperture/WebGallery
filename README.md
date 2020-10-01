@@ -10,8 +10,7 @@ WebInterface for a Web Gallary presenting Pictures.
 
 ## Prerequisites for Host/Server
 - MySQL
-- Node.js
-- dependencys listet in package.json
+- Wt binarys
 
 ## Basic Features
 - [ ] Gallery of All Pictures
