@@ -13,8 +13,9 @@
 
 class ControlExample : public Wt::WApplication {
 private:
-    std::string appName{};
+    Wt::WString appName{};
     std::unique_ptr<Wt::WTemplate> mainTemplate{};
+    void OnLineEditEnterPressed();
 
 public:
     ControlExample(const Wt::WEnvironment&);
