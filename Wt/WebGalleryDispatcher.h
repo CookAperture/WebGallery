@@ -6,7 +6,7 @@ class WebGalleryDispatcher : public Dispatcher
 {
 public:
 	std::unique_ptr<Wt::WTemplate> Dispatch(const VIEWREQUEST&) override;
-	using Dispatcher::SetViews;
+	using Dispatcher::Dispatcher;
 private:
 	//Views as a Map
 };

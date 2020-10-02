@@ -19,18 +19,16 @@ std::unique_ptr<Wt::WTemplate> HomeView::CreateView() const
     Wt::WLink link{ Wt::LinkType::InternalPath, "/testy" };
     link.setInternalPath("/testy");
 
-    auto temp = Wt::WString::tr("main");
-    mainTemplate = std::make_unique<Wt::WTemplate>(temp);
+    mainTemplate = std::make_unique<Wt::WTemplate>(xml);
 
-    auto lineEdit = Wt::WLineEdit();
-    lineEdit.setMaxLength(256);
-    lineEdit.enterPressed().connect(std::bind(&HomeView::OnLineEditEnterPressed, this, lineEdit));
-    mainTemplate->bindWidget("name-edit", std::make_unique<Wt::WLineEdit>(lineEdit));
+    auto lineEdit = std::make_unique<Wt::WLineEdit>();
+    lineEdit->setMaxLength(256);
+    mainTemplate->bindWidget("name-edit", std::move(lineEdit));
 
-    Wt::WPushButton nextButton{"Next Page"};
-    nextButton.setLink(link);
-    nextButton.setToolTip("Redirects to Testy");
-    mainTemplate->bindWidget("next-button", std::make_unique<Wt::WPushButton>(nextButton));
+    auto nextButton = std::make_unique<Wt::WPushButton>("Next Page");
+    nextButton->setLink(link);
+    nextButton->setToolTip("Redirects to Testy");
+    mainTemplate->bindWidget("next-button", std::move(nextButton));
 
     auto previousButton = std::make_unique<Wt::WPushButton>("Previous Page");
     previousButton->setLink(link);

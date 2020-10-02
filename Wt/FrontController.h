@@ -3,7 +3,7 @@ class FrontController
 {
 public:
 	//userAuth
-	virtual void DispatchRequest() = 0;
+	virtual void DispatchRequest(const VIEWREQUEST&) = 0;
 private:
 	//Dispatcher
 };

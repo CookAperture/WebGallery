@@ -1,51 +1,34 @@
 #include "WWebGallery.h"
-#include "HomeView.h"
-#include "TestyView.h"
+
 
 void WWebGallery::Init()
 {
-    std::map<const VIEWREQUEST, const View*> views
-    {
-        {VIEWREQUEST::HOME, &HomeView(appRoot() + "xml/main")},
-        {VIEWREQUEST::TESTY, &TestyView(appRoot() + "xml/main")}
-    };
-
-    dispatcher->SetViews(views);
+    dispatcher->ConnectViews(std::bind(&WWebGallery::DispatchRequest, this, std::placeholders::_1));
+    dispatcher->SetTemplates(Wt::WString::tr("main")); 
+    //for different keys it has to be read from the keys() func -> thus the enum has to represent with strings so for every available key the correct enum is set in a vec -> is applyed (fallback should alwayd be the main)
+    DispatchRequest(VIEWREQUEST::HOME);
 }
 
-WWebGallery::WWebGallery(const Wt::WEnvironment& env, Dispatcher& disp)
-    : WApplication(env), dispatcher(&disp)
+WWebGallery::WWebGallery(const Wt::WEnvironment& env, Dispatcher* disp)
+    : WApplication(env), dispatcher(disp)
 {
     //ressource init
     appName = "Web Gallery";
-    useStyleSheet("main.css");
+    //useStyleSheet("main.css");
+    messageResourceBundle().use(appRoot() + "xml/main");
     Init();
     //main init
     setTitle(appName);
-    internalPathChanged().connect(this, &WWebGallery::onInternalPathChange);
 }
 
-void WWebGallery::DispatchRequest()
+void WWebGallery::DispatchRequest(const VIEWREQUEST& request)
 {
-    dispatcher->Dispatch(); //retrieve event (request from a view)
-}
-
-void WWebGallery::onInternalPathChange() //navigate
-{
-    if (internalPath() == "/")
-        ;//ReactOnChangedPath
-    else if (internalPath() == "/testy")
-        ;//ReactOnChangedPath
-    else
-    {
-        //FallBack
-        setInternalPath("/");
-    }
+    actualPage = dispatcher->Dispatch(request); //retrieve event (request from a view)
+    UpdatePage();
 }
 
 inline void WWebGallery::UpdatePage()
 {
     root()->clear();
-    root()->setStyleClass("external");
     root()->addWidget(std::move(actualPage));
 }

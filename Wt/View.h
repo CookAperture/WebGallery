@@ -2,14 +2,15 @@
 #include "View.h"
 #include "InternalTypes.h"
 
-class View //needs Event to Invoke Path Changed !! -> another page is requested!! | alternativly emit path changed event??
+class View
 {
 public:
-	View(const std::string& path)
+	virtual std::unique_ptr<Wt::WTemplate> RenderView() const = 0;
+	std::function<void(VIEWREQUEST)> request_;
+	void SetTemplate(const Wt::WString& xml) 
 	{
-		messageResourceBundle.use(path);
-	};
-	virtual std::unique_ptr<Wt::WTemplate> RenderView() const = 0; //maybe return a WWidgetContainer as Page
-private:
-	Wt::WMessageResourceBundle messageResourceBundle{};
+		this->xml = xml;
+	}
+protected:
+	Wt::WString xml;
 };
