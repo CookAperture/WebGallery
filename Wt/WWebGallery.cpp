@@ -1,17 +1,25 @@
 #include "WWebGallery.h"
+#include "HomeView.h"
+#include "TestyView.h"
 
 void WWebGallery::Init()
 {
+    std::map<const VIEWREQUEST, const View*> views
+    {
+        {VIEWREQUEST::HOME, &HomeView(appRoot() + "xml/main")},
+        {VIEWREQUEST::TESTY, &TestyView(appRoot() + "xml/main")}
+    };
+
+    dispatcher->SetViews(views);
 }
 
-WWebGallery::WWebGallery(const Wt::WEnvironment& env, const Dispatcher& disp)
+WWebGallery::WWebGallery(const Wt::WEnvironment& env, Dispatcher& disp)
     : WApplication(env), dispatcher(&disp)
 {
     //ressource init
     appName = "Web Gallery";
-    messageResourceBundle().use(appRoot() + "xml/main");
     useStyleSheet("main.css");
-
+    Init();
     //main init
     setTitle(appName);
     internalPathChanged().connect(this, &WWebGallery::onInternalPathChange);
@@ -19,6 +27,7 @@ WWebGallery::WWebGallery(const Wt::WEnvironment& env, const Dispatcher& disp)
 
 void WWebGallery::DispatchRequest()
 {
+    dispatcher->Dispatch(); //retrieve event (request from a view)
 }
 
 void WWebGallery::onInternalPathChange() //navigate

@@ -11,10 +11,10 @@ private:
     Wt::WString appName{};
     std::unique_ptr<Wt::WTemplate> actualPage{};
 
-    const Dispatcher* dispatcher;
+    Dispatcher* dispatcher;
     void Init();
 public:
-    WWebGallery(const Wt::WEnvironment&, const Dispatcher&);
+    WWebGallery(const Wt::WEnvironment&, Dispatcher&);
     void DispatchRequest() override;
     void onInternalPathChange();
     void UpdatePage();

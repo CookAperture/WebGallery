@@ -1,3 +1,4 @@
+#include "InternalTypes.h"
 #include "WWebGallery.h"
 #include "WebGalleryDispatcher.h"
 
