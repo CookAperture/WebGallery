@@ -13,28 +13,76 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Interfaces">
+      <UniqueIdentifier>{cee2e36d-f177-4866-8015-a5b58587c0a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views">
+      <UniqueIdentifier>{01bbaec4-2c2f-43a9-8dbb-749a9059bf76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\Header">
+      <UniqueIdentifier>{7fe0da76-556d-4cf4-80f0-4a9e0066d973}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\Cpp">
+      <UniqueIdentifier>{34cd790f-6ef0-4ff4-b5a0-4557964ce067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ressourcendateien\css">
+      <UniqueIdentifier>{8308fd6b-f231-4adc-b1ac-f19582ebba3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ressourcendateien\xml">
+      <UniqueIdentifier>{d65532f1-6bf8-472f-9988-c6cba5675795}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="BasicSceleton.cpp">
+    <ClCompile Include="WWebGallery.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="HomeView.cpp">
+      <Filter>Views\Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="TestyView.cpp">
+      <Filter>Views\Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="WebGalleryDispatcher.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Xml Include="main.xml">
-      <Filter>Ressourcendateien</Filter>
-    </Xml>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="BasicSceleton.h">
+    <ClInclude Include="FrontController.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="InternalTypes.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Dispatcher.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="WWebGallery.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="HomeView.h">
+      <Filter>Views\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="TestyView.h">
+      <Filter>Views\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="WebGalleryDispatcher.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="main.css">
-      <Filter>Ressourcendateien</Filter>
+      <Filter>Ressourcendateien\css</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="main.xml">
+      <Filter>Ressourcendateien\xml</Filter>
+    </Xml>
   </ItemGroup>
 </Project>
