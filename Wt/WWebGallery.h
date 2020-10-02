@@ -3,18 +3,19 @@
 #include <Wt/WApplication.h>
 #include <Wt/WString.h>
 #include "InternalTypes.h"
+#include "FrontController.h"
+#include "Dispatcher.h"
 
-class WWebGallery : public Wt::WApplication {
+class WWebGallery : public Wt::WApplication, public FrontController {
 private:
     Wt::WString appName{};
-    std::unique_ptr<Wt::WTemplate> mainTemplate{};
-    void OnLineEditEnterPressed();
+    std::unique_ptr<Wt::WTemplate> actualPage{};
 
+    const Dispatcher* dispatcher;
+    void Init();
 public:
-    WWebGallery(const Wt::WEnvironment&);
+    WWebGallery(const Wt::WEnvironment&, const Dispatcher&);
+    void DispatchRequest() override;
     void onInternalPathChange();
     void UpdatePage();
-    void SetHome();
-    void SetTesty();
-
 };

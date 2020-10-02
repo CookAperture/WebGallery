@@ -2,7 +2,7 @@
 #include "InternalTypes.h"
 #include "View.h"
 
-class HomeView : public View
+class TestyView : public View
 {
 public:
 	using View::View;

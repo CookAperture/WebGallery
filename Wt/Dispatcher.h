@@ -2,7 +2,7 @@
 class Dispatcher
 {
 public:
-	virtual void Dispatch() = 0;
+	virtual std::unique_ptr<Wt::WTemplate> Dispatch(const VIEWREQUEST&) = 0;
 private:
 	//Views
 };
