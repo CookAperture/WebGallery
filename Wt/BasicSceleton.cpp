@@ -2,7 +2,7 @@
 #include <Wt/WCssStyleSheet.h>
 #include <Wt/WFileResource.h>
 
-ControlExample::ControlExample(const Wt::WEnvironment& env)
+WWebGallery::WWebGallery(const Wt::WEnvironment& env)
     : WApplication(env)
 {
     //ressource init
@@ -12,11 +12,11 @@ ControlExample::ControlExample(const Wt::WEnvironment& env)
 
     //main init
     setTitle(appName);
-    internalPathChanged().connect(this, &ControlExample::onInternalPathChange);
+    internalPathChanged().connect(this, &WWebGallery::onInternalPathChange);
     SetHome();
 }
 
-void ControlExample::onInternalPathChange() //navigate
+void WWebGallery::onInternalPathChange() //navigate
 {
     if (internalPath() == "/")
         SetHome();
@@ -29,7 +29,7 @@ void ControlExample::onInternalPathChange() //navigate
     }
 }
 
-inline void ControlExample::UpdatePage()
+inline void WWebGallery::UpdatePage()
 {
     root()->clear();
     root()->setStyleClass("external");
@@ -37,7 +37,7 @@ inline void ControlExample::UpdatePage()
 }
 
 // { EventListener
-void ControlExample::OnLineEditEnterPressed()
+void WWebGallery::OnLineEditEnterPressed()
 {
     appName += " Changed";
     setTitle(appName);
@@ -45,7 +45,7 @@ void ControlExample::OnLineEditEnterPressed()
 // }
 
 
-void ControlExample::SetHome()
+void WWebGallery::SetHome()
 {
     Wt::WLink link{ Wt::LinkType::InternalPath, "/testy" };
     link.setInternalPath("/testy");
@@ -55,7 +55,7 @@ void ControlExample::SetHome()
 
     auto lineEdit = std::make_unique<Wt::WLineEdit>();
     lineEdit->setMaxLength(256);
-    lineEdit->enterPressed().connect(std::bind(&ControlExample::OnLineEditEnterPressed, this));
+    lineEdit->enterPressed().connect(std::bind(&WWebGallery::OnLineEditEnterPressed, this));
     mainTemplate->bindWidget("name-edit", std::move(lineEdit));
 
     auto nextButton = std::make_unique<Wt::WPushButton>("Next Page");
@@ -71,7 +71,7 @@ void ControlExample::SetHome()
     UpdatePage();
 }
 
-void ControlExample::SetTesty()
+void WWebGallery::SetTesty()
 {
     Wt::WLink link{ Wt::LinkType::InternalPath, "/" };
     link.setInternalPath("/");
@@ -81,7 +81,7 @@ void ControlExample::SetTesty()
 
     auto lineEdit = std::make_unique<Wt::WLineEdit>();
     lineEdit->setMaxLength(256);
-    lineEdit->enterPressed().connect(std::bind(&ControlExample::OnLineEditEnterPressed, this));
+    lineEdit->enterPressed().connect(std::bind(&WWebGallery::OnLineEditEnterPressed, this));
     lineEdit->setPlaceholderText("Now on Page Testy");
     mainTemplate->bindWidget("name-edit", std::move(lineEdit));
 

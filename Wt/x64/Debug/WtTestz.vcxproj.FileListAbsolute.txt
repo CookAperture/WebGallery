@@ -1,4 +1,4 @@
-C:\WebGallery\Wt\x64\Debug\WtBasicSkeleton.exe
-C:\WebGallery\Wt\x64\Debug\WtBasicSkeleton.pdb
 H:\WebGallery\Wt\x64\Debug\WtBasicSkeleton.exe
 H:\WebGallery\Wt\x64\Debug\WtBasicSkeleton.pdb
+C:\WebGallery\Wt\x64\Debug\WtWebGallery.exe
+C:\WebGallery\Wt\x64\Debug\WtWebGallery.pdb

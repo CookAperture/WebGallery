@@ -11,14 +11,14 @@
 #include <Wt/WLineEdit.h>
 #include <memory>
 
-class ControlExample : public Wt::WApplication {
+class WWebGallery : public Wt::WApplication {
 private:
     Wt::WString appName{};
     std::unique_ptr<Wt::WTemplate> mainTemplate{};
     void OnLineEditEnterPressed();
 
 public:
-    ControlExample(const Wt::WEnvironment&);
+    WWebGallery(const Wt::WEnvironment&);
     void onInternalPathChange();
     void UpdatePage();
     void SetHome();

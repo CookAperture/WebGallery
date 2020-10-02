@@ -24,7 +24,7 @@
     <ProjectGuid>{dfda9c38-6ebe-43da-aa68-7052212cf745}</ProjectGuid>
     <RootNamespace>WtTestz</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>WtBasicSkeleton</ProjectName>
+    <ProjectName>WtWebGallery</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
