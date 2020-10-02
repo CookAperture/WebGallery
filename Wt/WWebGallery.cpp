@@ -1,6 +1,4 @@
-#include "BasicSceleton.h"
-#include <Wt/WCssStyleSheet.h>
-#include <Wt/WFileResource.h>
+#include "WWebGallery.h"
 
 WWebGallery::WWebGallery(const Wt::WEnvironment& env)
     : WApplication(env)

@@ -1,15 +1,8 @@
 #pragma once
 #include <Wt/WAnchor.h>
 #include <Wt/WApplication.h>
-#include <Wt/WContainerwidget.h>
-#include <Wt/WLink.h>
-#include <Wt/WText.h>
-#include <Wt/WMessageResourceBundle.h>
-#include <Wt/WTemplate.h>
 #include <Wt/WString.h>
-#include <Wt/WPushButton.h>
-#include <Wt/WLineEdit.h>
-#include <memory>
+#include "InternalTypes.h"
 
 class WWebGallery : public Wt::WApplication {
 private:
