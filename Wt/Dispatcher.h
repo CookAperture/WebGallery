@@ -3,20 +3,20 @@
 class Dispatcher
 {
 public:
-	Dispatcher(const std::map<const VIEWREQUEST, View*>& views)
-		: views(views)
+	Dispatcher(std::unique_ptr<std::map<const VIEWREQUEST, std::shared_ptr<View>>> views)
+		: views(std::move(views))
 	{}
 	virtual std::unique_ptr<Wt::WTemplate> Dispatch(const VIEWREQUEST&) = 0;
 	virtual void ConnectViews(std::function<void(VIEWREQUEST)> onRequest)
 	{
-		for (auto& view : views)
-			view.second->request_ = onRequest;
+		for (auto& view : *views)
+			view.second->request_ = std::move(onRequest);
 	}
 	virtual void SetTemplates(const Wt::WString& xmlTemplate)
 	{
-		for (auto& view : views)
+		for (auto& view : *views)
 			view.second->SetTemplate(xmlTemplate);
 	}
 protected:
-	std::map<const VIEWREQUEST, View*> views;
+	std::unique_ptr<std::map<const VIEWREQUEST, std::shared_ptr<View>>> views;
 };

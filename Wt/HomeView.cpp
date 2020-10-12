@@ -26,12 +26,14 @@ std::unique_ptr<Wt::WTemplate> HomeView::CreateView() const
     mainTemplate->bindWidget("name-edit", std::move(lineEdit));
 
     auto nextButton = std::make_unique<Wt::WPushButton>("Next Page");
-    nextButton->setLink(link);
+    //nextButton->setLink(link);
+    nextButton->clicked().connect(std::bind(request_, VIEWREQUEST::TESTY));
     nextButton->setToolTip("Redirects to Testy");
     mainTemplate->bindWidget("next-button", std::move(nextButton));
 
     auto previousButton = std::make_unique<Wt::WPushButton>("Previous Page");
-    previousButton->setLink(link);
+    //previousButton->setLink(link);
+    previousButton->clicked().connect(std::bind(request_, VIEWREQUEST::TESTY));
     previousButton->setToolTip("Redirects to Testy");
     mainTemplate->bindWidget("previous-button", std::move(previousButton));
 

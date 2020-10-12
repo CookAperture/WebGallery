@@ -9,8 +9,8 @@ void WWebGallery::Init()
     DispatchRequest(VIEWREQUEST::HOME);
 }
 
-WWebGallery::WWebGallery(const Wt::WEnvironment& env, Dispatcher* disp)
-    : WApplication(env), dispatcher(disp)
+WWebGallery::WWebGallery(const Wt::WEnvironment& env, std::unique_ptr<Dispatcher> disp)
+    : WApplication(env), dispatcher(std::move(disp))
 {
     //ressource init
     appName = "Web Gallery";
@@ -23,7 +23,8 @@ WWebGallery::WWebGallery(const Wt::WEnvironment& env, Dispatcher* disp)
 
 void WWebGallery::DispatchRequest(const VIEWREQUEST& request)
 {
-    actualPage = dispatcher->Dispatch(request); //retrieve event (request from a view)
+    auto v = this;
+    actualPage = dispatcher.get()->Dispatch(request);
     UpdatePage();
 }
 
