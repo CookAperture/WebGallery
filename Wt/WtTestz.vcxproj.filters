@@ -76,13 +76,11 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="main.css">
+    <CopyFileToFolders Include="main.css">
       <Filter>Ressourcendateien\css</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Xml Include="main.xml">
+    </CopyFileToFolders>
+    <CopyFileToFolders Include="main.xml">
       <Filter>Ressourcendateien\xml</Filter>
-    </Xml>
+    </CopyFileToFolders>
   </ItemGroup>
 </Project>

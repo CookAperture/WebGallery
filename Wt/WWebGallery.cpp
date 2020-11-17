@@ -23,7 +23,6 @@ WWebGallery::WWebGallery(const Wt::WEnvironment& env, std::unique_ptr<Dispatcher
 
 void WWebGallery::DispatchRequest(const VIEWREQUEST& request)
 {
-    auto v = this;
     actualPage = dispatcher.get()->Dispatch(request);
     UpdatePage();
 }
