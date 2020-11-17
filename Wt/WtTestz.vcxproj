@@ -172,14 +172,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BasicSceleton.cpp" />
+    <ClCompile Include="HomeView.cpp" />
+    <ClCompile Include="TestyView.cpp" />
+    <ClCompile Include="WebGalleryDispatcher.cpp" />
+    <ClCompile Include="WWebGallery.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Xml Include="main.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BasicSceleton.h" />
+    <ClInclude Include="HomeView.h" />
+    <ClInclude Include="TestyView.h" />
+    <ClInclude Include="WebGalleryDispatcher.h" />
+    <ClInclude Include="WWebGallery.h" />
+    <ClInclude Include="Dispatcher.h" />
+    <ClInclude Include="FrontController.h" />
+    <ClInclude Include="InternalTypes.h" />
+    <ClInclude Include="View.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="main.css" />
