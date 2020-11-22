@@ -1,0 +1,2 @@
+H:\!Repositories\WebGallery\Wt\x64\Debug\WtWebGallery.exe
+H:\!Repositories\WebGallery\Wt\x64\Debug\WtWebGallery.pdb

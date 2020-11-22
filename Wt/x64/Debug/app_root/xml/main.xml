@@ -3,7 +3,7 @@
   <message id="main">
     <div class="form">
       <p>
-        <label>Please enter the new App name: ${name-edit}</label>
+        <label>Please enter the new App name!: ${name-edit}</label>
       </p>
       <p>
         ${next-button} ${previous-button}
