@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "WtWebGallery",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "WtWebGallery::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WtWebGallery-Debug-4bb37f7b946116b11f12.json",
+					"name" : "WtWebGallery",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yeager/.vs/Wt/63765721-7c02-4411-b477-e8b5c5dd008d/out/build/Linux-GCC-Debug",
+		"source" : "/home/yeager/.vs/Wt/63765721-7c02-4411-b477-e8b5c5dd008d/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

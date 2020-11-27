@@ -4,4 +4,8 @@
     <LocalDebuggerCommandArguments>--http-address=0.0.0.0 --http-port=8080 --deploy-path=/ --approot="./app_root" --docroot="./doc_root"</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">
+    <LocalDebuggerCommandArguments>--http-address=0.0.0.0 --http-port=8080 --deploy-path=/ --approot="./app_root" --docroot="./doc_root"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
 </Project>
