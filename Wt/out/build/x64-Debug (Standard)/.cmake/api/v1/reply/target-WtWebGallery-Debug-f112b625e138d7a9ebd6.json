@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "H:/WebGallery/Wt/x64/Debug/WtWebGallery.exe"
+			"path" : "H:/!Repositories/WebGallery/Wt/x64/Debug/WtWebGallery.exe"
 		},
 		{
-			"path" : "H:/WebGallery/Wt/x64/Debug/WtWebGallery.pdb"
+			"path" : "H:/!Repositories/WebGallery/Wt/x64/Debug/WtWebGallery.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -146,11 +146,11 @@
 			[
 				{
 					"backtrace" : 7,
-					"path" : "H:/WebGallery/Wt/../Wt 4.4.0 msvs2019 x64/include"
+					"path" : "H:/!Repositories/WebGallery/Wt/../Wt 4.4.0 msvs2019 x64/include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "H:/WebGallery/Wt"
+					"path" : "H:/!Repositories/WebGallery/Wt"
 				}
 			],
 			"language" : "CXX",
@@ -194,12 +194,12 @@
 			},
 			{
 				"backtrace" : 3,
-				"fragment" : "-LIBPATH:\"H:\\WebGallery\\Wt\\..\\Wt 4.4.0 msvs2019 x64\\lib\"",
+				"fragment" : "-LIBPATH:\"H:\\!Repositories\\WebGallery\\Wt\\..\\Wt 4.4.0 msvs2019 x64\\lib\"",
 				"role" : "libraryPath"
 			},
 			{
 				"backtrace" : 3,
-				"fragment" : "-LIBPATH:H:\\WebGallery\\Wt",
+				"fragment" : "-LIBPATH:H:\\!Repositories\\WebGallery\\Wt",
 				"role" : "libraryPath"
 			},
 			{

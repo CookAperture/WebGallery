@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/lib.exe"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x64/lib.exe"
 		},
 		{
 			"name" : "CMAKE_BUILD_TYPE",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "h:/WebGallery/Wt/out/build/x64-Debug (Standard)"
+			"value" : "h:/!Repositories/WebGallery/Wt/out/build/x64-Debug (Standard)"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -135,7 +135,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x64/cl.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS",
@@ -411,7 +411,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "H:/WebGallery/Wt"
+			"value" : "H:/!Repositories/WebGallery/Wt"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -423,7 +423,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "H:/WebGallery/Wt/out/install/x64-Debug (Standard)"
+			"value" : "H:/!Repositories/WebGallery/Wt/out/install/x64-Debug (Standard)"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -439,7 +439,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/link.exe"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x64/link.exe"
 		},
 		{
 			"name" : "CMAKE_MAKE_PROGRAM",
@@ -547,7 +547,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files (x86)/Windows Kits/10/bin/10.0.18362.0/x64/mt.exe"
+			"value" : "C:/Program Files (x86)/Windows Kits/10/bin/10.0.18362.0/x86/mt.exe"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files (x86)/Windows Kits/10/bin/10.0.18362.0/x64/rc.exe"
+			"value" : "C:/Program Files (x86)/Windows Kits/10/bin/10.0.18362.0/x86/rc.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER_WORKS",
@@ -959,7 +959,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "H:/WebGallery/Wt/out/build/x64-Debug (Standard)"
+			"value" : "H:/!Repositories/WebGallery/Wt/out/build/x64-Debug (Standard)"
 		},
 		{
 			"name" : "WtWebGallery_SOURCE_DIR",
@@ -971,7 +971,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "H:/WebGallery/Wt"
+			"value" : "H:/!Repositories/WebGallery/Wt"
 		}
 	],
 	"kind" : "cache",

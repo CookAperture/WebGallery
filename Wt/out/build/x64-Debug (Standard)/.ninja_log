@@ -1,7 +1,7 @@
 # ninja log v5
-3	1167	628220035	CMakeFiles/WtWebGallery.dir/WebGalleryDispatcher.cpp.obj	49a53e5518e0891f
-6	1191	628220035	CMakeFiles/WtWebGallery.dir/TestyView.cpp.obj	438cc2f281173826
-8	1200	628220035	CMakeFiles/WtWebGallery.dir/HomeView.cpp.obj	5b8ab5269ce8baff
-5	1215	628220035	CMakeFiles/WtWebGallery.dir/WWebGallery.cpp.obj	6be42e0240b11e1e
-0	1230	628220035	CMakeFiles/WtWebGallery.dir/main.cpp.obj	33f3632dcc7c1ffe
-1241	1598	628220035	../../../x64/Debug/WtWebGallery.exe	be4d9d01be0df95d
+0	1688	628224440	CMakeFiles/WtWebGallery.dir/WebGalleryDispatcher.cpp.obj	8a5ab9da7b16edc8
+4	1723	628224440	CMakeFiles/WtWebGallery.dir/WWebGallery.cpp.obj	19f5126e738f0c77
+6	1729	628224440	CMakeFiles/WtWebGallery.dir/HomeView.cpp.obj	ccfd8802396bbadf
+3	1755	628224440	CMakeFiles/WtWebGallery.dir/main.cpp.obj	cf42e3c81a682cae
+8	1771	628224440	CMakeFiles/WtWebGallery.dir/TestyView.cpp.obj	4f9807975eb29f82
+1786	2306	628224441	../../../x64/Debug/WtWebGallery.exe	4d55e5cfba1cfda2

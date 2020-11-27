@@ -1,8 +1,8 @@
-# Install script for directory: H:/WebGallery/Wt
+# Install script for directory: H:/!Repositories/WebGallery/Wt
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "H:/WebGallery/Wt/out/install/x64-Debug (Standard)")
+  set(CMAKE_INSTALL_PREFIX "H:/!Repositories/WebGallery/Wt/out/install/x64-Debug (Standard)")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "H:/WebGallery/Wt/out/build/x64-Debug (Standard)/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "H:/!Repositories/WebGallery/Wt/out/build/x64-Debug (Standard)/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

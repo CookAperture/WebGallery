@@ -38,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "WtWebGallery::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-WtWebGallery-Debug-575e5632333d338248dc.json",
+					"jsonFile" : "target-WtWebGallery-Debug-f112b625e138d7a9ebd6.json",
 					"name" : "WtWebGallery",
 					"projectIndex" : 0
 				}
@@ -48,8 +48,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "H:/WebGallery/Wt/out/build/x64-Debug (Standard)",
-		"source" : "H:/WebGallery/Wt"
+		"build" : "H:/!Repositories/WebGallery/Wt/out/build/x64-Debug (Standard)",
+		"source" : "H:/!Repositories/WebGallery/Wt"
 	},
 	"version" : 
 	{
