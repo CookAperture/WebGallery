@@ -1,7 +1,0 @@
-WT_ADD_EXAMPLE(oauth.wt 
-        OAuth.C
-)
-
-TARGET_LINK_LIBRARIES(oauth.wt)
-
-INCLUDE_DIRECTORIES(${WT_SOURCE_DIR}/src)
