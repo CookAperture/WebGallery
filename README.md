@@ -10,7 +10,7 @@ WebInterface for a Web Gallary presenting Pictures.
 
 ## Prerequisites for Host/Server
 - MySQL
-- Wt binarys
+- Apache Server
 
 ## Basic Features
 - [ ] Gallery of All Pictures
