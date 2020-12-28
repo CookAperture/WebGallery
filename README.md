@@ -12,6 +12,14 @@ WebInterface for a Web Gallary presenting Pictures.
 - MySQL
 - Apache Server
 
+## Recommended Dev-Environment
+- XAMP(Apache, MySQL)
+- HeidiSQL
+
+## Recommended Production-Environment
+- WAMP(Apache, MySQL) or Linux with Apache/MySQL services properly configured
+- HeidiSQL or Linux with console
+
 ## Basic Features
 - [ ] Gallery of All Pictures
 - [ ] Database for All Pictures
