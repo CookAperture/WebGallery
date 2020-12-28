@@ -1,0 +1,11 @@
+Body 
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0; /* auch gerne 5-10px */
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
