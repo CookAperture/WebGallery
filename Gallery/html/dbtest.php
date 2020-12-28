@@ -7,6 +7,7 @@
     </head>
     <body>
         <h1>Database Content</h1>
-        
+        <button type="button" onclick="showContent()">Query</button>
+        <p id="cont"></p>
     </body>
 </html>
