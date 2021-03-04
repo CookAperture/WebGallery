@@ -1,5 +1,4 @@
-Body 
-{
+body {
     position: absolute;
     top: 0;
     left: 0;
@@ -9,12 +8,23 @@ Body
     width: 100vw;
     display: flex;
     flex-direction: column; /* Sollte dann auf einem Content Container angewendet werden */
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
-header
-{
+header {
     position: relative;
     height: 50px;
     width: 100%;
     justify-self: flex-start;
+}
+
+button {
+    text-decoration: none;
+    color: white;
+    background-color: ;
+}
+
+button:focus {
+    outline: none;
 }

@@ -1,0 +1,29 @@
+button.onChangeToLoginView {
+    position: relative;
+    margin-top: auto;
+    border: none;
+    height: 15%;
+    width: 100%;
+    font-size: 1.5em;
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5018382352941176) 50%, rgba(255,255,255,0) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5018382352941176) 50%, rgba(255,255,255,0) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5018382352941176) 50%, rgba(255,255,255,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#ffffff",GradientType=1);
+}
+
+button.onChangeToLoginView:hover {
+    color:white;
+    background: rgb(132,0,255);
+    background: -moz-linear-gradient(0deg, rgba(132,0,255,1) 0%, rgba(132,0,255,0.5) 50%, rgba(255,255,255,0) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(132,0,255,1) 0%, rgba(132,0,255,0.5) 50%, rgba(255,255,255,0) 100%);
+    background: linear-gradient(0deg, rgba(132,0,255,1) 0%, rgba(132,0,255,0.5) 50%, rgba(255,255,255,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#8400ff",endColorstr="#ffffff",GradientType=1);
+}
+
+h1.mainHeadline {
+    position: relative;
+    font-size: 6em;
+    align-self: center;
+    margin-top: 7%;
+}
