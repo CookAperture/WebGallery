@@ -1,5 +1,6 @@
-button.onChangeToLoginView {
+button#onChangeToLoginView {
     position: relative;
+    transition: 250ms;
     margin-top: auto;
     border: none;
     height: 15%;
@@ -12,8 +13,9 @@ button.onChangeToLoginView {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#ffffff",GradientType=1);
 }
 
-button.onChangeToLoginView:hover {
+button#onChangeToLoginView:hover {
     color:white;
+    height: 20%;
     background: rgb(132,0,255);
     background: -moz-linear-gradient(0deg, rgba(132,0,255,1) 0%, rgba(132,0,255,0.5) 50%, rgba(255,255,255,0) 100%);
     background: -webkit-linear-gradient(0deg, rgba(132,0,255,1) 0%, rgba(132,0,255,0.5) 50%, rgba(255,255,255,0) 100%);
