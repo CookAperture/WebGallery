@@ -1,14 +1,32 @@
 <html>
     <head>
         <title>Web Gallery</title> 
-        <script src="./js/main.js">//kommentar alles code hier</script>
-        <script src="./js/eventHandler.js">//kommentar alles code hier</script>
+        <script src="./js/app.js"></script>
+        <script src="./js/viewHandler.js"></script>
+        <script src="./js/controller.js"></script>
+        <script src="./js/ajaxtesty.js"></script>
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/mainView.css">
     </head>
     <body>
-        <h1 class="mainHeadline">Web Gallery</h1>
-        <!-- <a href="/html/dbtest.html">click me</a> -->
-        <button id="onChangeToLoginView" class="menuButton">Click to swipe up!</button>
+        <section id="mainView">
+            <h1 class="mainHeadline">Web Gallery</h1>
+            <!-- <a href="/html/dbtest.html">click me</a> -->
+            <button id="onChangeToLoginView" class="menuButton">Click to swipe up!</button>
+        </section>
+        <section id="loginView" class="hidden">
+            <img src="" alt="placeholder">
+            <form action="">
+                <div>
+                    <label for="username"></label>
+                </div>
+                <div>
+                    <label for="password"></label>
+                </div>
+                <div>
+                    <button id="onLogin">login</button>
+                </div>
+            </form>
+        </section>
     </body>
 </html>
