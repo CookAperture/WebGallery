@@ -1,9 +1,8 @@
 class controller{
     constructor() {}
     
-    static testifingItem = document.getElementById('onChangeToLoginViewButton');
-    
     static main() {
-        viewHandler.onChangeToLoginViewButton.onclick = () =>viewHandler.onChangeToLoginView();
+        viewHandler._onChangeToLoginViewButton = document.getElementById('onChangeToLoginViewButton');
+        viewHandler._onChangeToLoginViewButton.onclick  = viewHandler.onChangeToLoginView();
     }
 }

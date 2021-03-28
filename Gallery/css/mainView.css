@@ -9,7 +9,7 @@
 
 button#onChangeToLoginView {
     position: relative;
-    transition: 250ms;
+    transition: all 150ms ease-in;
     margin-top: auto;
     border: none;
     height: 15%;
