@@ -4,9 +4,11 @@
         <script src="./js/app.js"></script>
         <script src="./js/viewHandler.js"></script>
         <script src="./js/controller.js"></script>
+        <script src="./js/interactor.js"></script>
         <script src="./js/ajaxtesty.js"></script>
-        <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/mainView.css">
+        <link rel="stylesheet" href="./css/main.css">
+        <link rel="stylesheet" href="./css/mainView.css">
+        <link rel="stylesheet" href="./css/loginView.css">
     </head>
     <body>
         <section id="mainView">
@@ -15,18 +17,14 @@
             <button id="onChangeToLoginView" class="menuButton">Click to swipe up!</button>
         </section>
         <section id="loginView" class="hidden">
-            <img src="" alt="placeholder">
-            <form action="">
-                <div>
-                    <label for="username"></label>
-                </div>
-                <div>
-                    <label for="password"></label>
-                </div>
-                <div>
+            <article>
+                <img src="" alt="placeholder">
+                <form action="">
+                    <input type="text" name="username" id="username" placeholder="username">
+                    <input type="password" name="password" id="password" placeholder="password">
                     <button id="onLogin">login</button>
-                </div>
-            </form>
+                </form>
+            </article>
         </section>
     </body>
 </html>
