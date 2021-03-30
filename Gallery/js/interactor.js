@@ -1,0 +1,9 @@
+class interactor {
+    constructor() {
+
+    }
+
+    onChangeToLoginView() {// ???
+
+    }
+}
