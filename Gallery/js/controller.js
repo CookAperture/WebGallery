@@ -1,8 +1,10 @@
 class controller{
-    constructor() {}
+    constructor() {
+        this._viewHandlerInstance  = new viewHandler;
+        this._interactorInstance = new interactor;
+    }
     
-    static main() {
-        viewHandler._onChangeToLoginViewButton = document.getElementById('onChangeToLoginViewButton');
-        viewHandler._onChangeToLoginViewButton.onclick  = viewHandler.onChangeToLoginView();
+    main() {
+        this._viewHandlerInstance._onChangeToLoginViewButton.onclick = this._viewHandlerInstance.onChangeToLoginView;
     }
 }

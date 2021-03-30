@@ -1,11 +1,15 @@
 class viewHandler {
-    constructor() {}
+    constructor() {
+        this._onChangeToLoginViewButton = document.getElementById('onChangeToLoginView');
+        // this._mainView = document.getElementById('mainView');
+        // this._loginView = document.getElementById('loginView');
+        }
 
-    static _onChangeToLoginViewButton;
-    // = document.getElementById('onChangeToLoginView');
-    static _mainView = document.getElementById('mainView');
-
-    static onChangeToLoginView() {
+    onChangeToLoginView() {
+        let mainView = document.getElementById('mainView');
+        let loginView = document.getElementById('loginView');
         
+        mainView.classList.toggle('hidden');
+        loginView.classList.toggle('hidden');
     }
 }
